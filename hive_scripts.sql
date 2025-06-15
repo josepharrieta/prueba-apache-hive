@@ -18,12 +18,12 @@ FIELDS TERMINATED BY ','
 STORED AS TEXTFILE
 LOCATION '/user/hive/warehouse/ventas_ext';
 
+-- Cargar datos en la tabla externa (desde el archivo CSV)
+LOAD DATA LOCAL INPATH '/dataset_ventas.csv' OVERWRITE INTO TABLE ventas_ext;
+
 -- Tabla interna
 DROP TABLE IF EXISTS ventas_int;
 CREATE TABLE ventas_int AS SELECT * FROM ventas_ext;
-
--- Cargar datos en la tabla externa (desde el archivo CSV)
-LOAD DATA LOCAL INPATH '/dataset_ventas.csv' OVERWRITE INTO TABLE ventas_ext;
 
 -- Consultas representativas
 -- 1. Total de ventas por producto

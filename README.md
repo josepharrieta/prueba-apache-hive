@@ -1,11 +1,11 @@
 # Prueba de Concepto: Apache Hive con Docker
 
-Este proyecto levanta un entorno mínimo de Apache Hive usando Docker, carga un dataset de ventas y ejecuta consultas HiveQL representativas.
+Este proyecto levanta un entorno mínimo de Apache Hive usando Docker, carga un pequeño dataset sintético de ventas y ejecuta consultas HiveQL representativas.
 
 ## Estructura del proyecto
 
 - `docker-compose.yml`: Orquesta los contenedores de Hadoop, Hive y dependencias.
-- `dataset_ventas.csv`: Dataset sintético de ventas.
+- `dataset_ventas.csv`: Dataset sintético de ventas (10 registros de ejemplo).
 - `hive_scripts.sql`: Script con creación de tablas y consultas HiveQL.
 - `scripts/entrypoint.sh`: Script de inicialización para ejecutar los scripts en Hive.
 
@@ -27,7 +27,11 @@ Este proyecto levanta un entorno mínimo de Apache Hive usando Docker, carga un 
 4. El contenedor `hive-cli` ejecutará automáticamente el script `hive_scripts.sql`.
 5. Puedes revisar los resultados de las consultas en los logs del contenedor `hive-cli`:
    ```sh
-   docker logs hive-cli
+ docker logs hive-cli
+  ```
+6. Cuando termines, apaga los contenedores con `Ctrl+C` y ejecuta:
+   ```sh
+   docker-compose down
    ```
 
 ## Personalización
