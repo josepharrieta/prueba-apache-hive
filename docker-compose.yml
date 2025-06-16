@@ -1,99 +1,99 @@
 version: '3.8'
+
 services:
+  # Hadoop NameNode
   namenode:
     image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
     container_name: namenode
+    restart: always
+    ports:
+      - "9870:9870"
+      - "9000:9000"
+    volumes:
+      - hadoop_namenode:/hadoop/dfs/name
+      - ./datasets:/datasets
     environment:
       - CLUSTER_NAME=test
-    ports:
-      - 9870:9870
-    volumes:
-      - namenode:/hadoop/dfs/name
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+    env_file:
+      - ./hadoop.env
     networks:
-      - hive-net
+      - hive-network
 
+  # Hadoop DataNode
   datanode:
     image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
     container_name: datanode
-    environment:
-      - CLUSTER_NAME=test
-      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020
+    restart: always
     volumes:
-      - datanode:/hadoop/dfs/data
+      - hadoop_datanode:/hadoop/dfs/data
+    environment:
+      - SERVICE_PRECONDITION=namenode:9870
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+    ports:
+      - "9864:9864"
+    env_file:
+      - ./hadoop.env
     networks:
-      - hive-net
-    depends_on:
-      - namenode
+      - hive-network
 
+  # Hive Metastore Database (PostgreSQL)
+  hive-metastore-postgresql:
+    image: postgres:12
+    container_name: hive-metastore-postgresql
+    restart: always
+    environment:
+      POSTGRES_DB: metastore
+      POSTGRES_USER: hive
+      POSTGRES_PASSWORD: hive
+    volumes:
+      - hive_metastore_postgresql:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - hive-network
+
+  # Hive Metastore
   hive-metastore:
     image: bde2020/hive:2.3.2-postgresql-metastore
     container_name: hive-metastore
+    restart: always
+    env_file:
+      - ./hadoop.env
+    command: /opt/hive/bin/hive --service metastore
     environment:
-      - HIVE_METASTORE_DB_TYPE=postgres
-      - HIVE_METASTORE_DB_HOST=metastore-postgres
-      - HIVE_METASTORE_DB_NAME=metastore
-      - HIVE_METASTORE_DB_USER=hive
-      - HIVE_METASTORE_DB_PASS=hive
-      - HIVE_METASTORE_URI=thrift://hive-metastore:9083
-      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020
+      SERVICE_PRECONDITION: "namenode:9870 datanode:9864 hive-metastore-postgresql:5432"
     ports:
-      - 9083:9083
-    networks:
-      - hive-net
-    depends_on:
-      - namenode
-      - datanode
-      - metastore-postgres
-
-  metastore-postgres:
-    image: postgres:13
-    container_name: metastore-postgres
-    environment:
-      - POSTGRES_DB=metastore
-      - POSTGRES_USER=hive
-      - POSTGRES_PASSWORD=hive
-    ports:
-      - 5432:5432
-    networks:
-      - hive-net
+      - "9083:9083"
     volumes:
-      - metastore-postgres:/var/lib/postgresql/data
+      - ./datasets:/datasets
+    networks:
+      - hive-network
 
+  # Hive Server2
   hive-server:
     image: bde2020/hive:2.3.2-postgresql-metastore
     container_name: hive-server
+    restart: always
+    env_file:
+      - ./hadoop.env
     environment:
-      - HIVE_METASTORE_URI=thrift://hive-metastore:9083
-      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020
+      HIVE_CORE_CONF_javax_jdo_option_ConnectionURL: "jdbc:postgresql://hive-metastore-postgresql/metastore"
+      SERVICE_PRECONDITION: "hive-metastore:9083"
     ports:
-      - 10000:10000
-      - 10002:10002
-    networks:
-      - hive-net
-    depends_on:
-      - hive-metastore
-
-  hive-cli:
-    image: bde2020/hive:2.3.2-postgresql-metastore
-    container_name: hive-cli
-    entrypoint: ["/bin/bash", "/scripts/entrypoint.sh"]
-    environment:
-      - HIVE_SERVER2_THRIFT_URL=jdbc:hive2://hive-server:10000/default
-      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020
+      - "10000:10000"
+      - "10002:10002"
     volumes:
-      - ./hive_scripts.sql:/hive_scripts.sql
-      - ./dataset_ventas.csv:/dataset_ventas.csv
-      - ./scripts/entrypoint.sh:/scripts/entrypoint.sh
+      - ./datasets:/datasets
+      - ./scripts:/scripts
     networks:
-      - hive-net
-    depends_on:
-      - hive-server
+      - hive-network
 
 volumes:
-  namenode:
-  datanode:
-  metastore-postgres:
+  hadoop_namenode:
+  hadoop_datanode:
+  hive_metastore_postgresql:
 
 networks:
-  hive-net:
+  hive-network:
     driver: bridge

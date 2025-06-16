@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,price,cost,weight_kg,dimensions,in_stock,stock_quantity,supplier_id,launch_date
+1,De-engineered client-driven concept Beauty,Beauty,GenericBrand,973.03,210.66,18.65,38x57x90,False,715,33,2025-01-27
+2,Front-line radical Graphical User Interface Electronics,Electronics,GenericBrand,717.43,240.5,20.09,68x52x26,True,387,15,2023-02-04
+3,Re-contextualized zero-defect hardware Automotive,Automotive,BrandB,636.0,35.04,38.51,33x25x12,True,525,37,2024-07-17
+4,Public-key hybrid project Toys,Toys,BrandC,785.93,334.02,41.91,51x48x94,True,807,11,2023-07-18
+5,Balanced homogeneous conglomeration Clothing,Clothing,GenericBrand,783.97,161.76,29.08,47x68x73,True,112,30,2023-10-11
+6,Multi-tiered interactive extranet Beauty,Beauty,BrandE,165.39,53.08,3.19,41x49x27,True,801,10,2022-09-02
+7,Organic discrete model Books,Books,BrandD,997.37,39.83,27.79,83x93x58,True,951,47,2022-08-22
+8,Quality-focused fresh-thinking neural-net Automotive,Automotive,GenericBrand,183.42,76.12,22.64,64x77x86,False,120,47,2023-04-01
+9,Synergized tangible parallelism Beauty,Beauty,GenericBrand,228.24,344.46,20.08,75x91x90,True,402,24,2024-12-01
+10,Expanded coherent policy Electronics,Electronics,BrandE,733.92,443.86,4.62,79x44x80,False,658,23,2024-11-21
+11,Proactive executive ability Home & Kitchen,Home & Kitchen,BrandD,278.62,114.36,37.45,68x30x6,True,395,23,2023-01-14
+12,Persevering well-modulated initiative Toys,Toys,BrandD,733.86,421.26,23.65,73x90x61,False,302,16,2023-10-16
+13,Streamlined next generation info-mediaries Beauty,Beauty,BrandE,155.41,465.65,23.3,89x34x63,True,46,4,2023-02-03
+14,Enhanced mission-critical orchestration Toys,Toys,BrandA,262.04,386.32,7.92,87x100x62,True,916,47,2024-08-20
+15,Horizontal mission-critical artificial intelligence Books,Books,GenericBrand,736.82,258.14,32.46,16x22x70,False,606,16,2024-10-17
+16,Cross-platform solution-oriented moderator Books,Books,BrandE,743.19,205.1,46.32,81x30x28,True,806,11,2025-04-14
+17,Vision-oriented content-based toolset Beauty,Beauty,BrandA,429.55,42.71,5.55,49x64x86,True,19,18,2023-03-03
+18,Reverse-engineered radical pricing structure Sports,Sports,BrandD,426.75,103.21,16.94,71x52x66,False,447,9,2023-05-30
+19,Upgradable disintermediate encryption Toys,Toys,GenericBrand,422.94,166.09,1.02,57x88x52,False,67,38,2022-09-26
+20,Cross-group neutral leverage Toys,Toys,BrandC,457.85,430.9,7.73,21x34x66,False,878,26,2025-03-01
+21,Extended demand-driven structure Home & Kitchen,Home & Kitchen,GenericBrand,553.24,76.78,19.08,67x27x38,True,533,29,2023-10-12
+22,Exclusive mobile support Toys,Toys,BrandC,635.02,439.14,49.91,8x33x62,True,13,1,2023-08-27
+23,Balanced executive encryption Beauty,Beauty,BrandD,707.98,248.96,37.73,74x6x66,True,899,20,2023-12-21
+24,Universal bandwidth-monitored service-desk Clothing,Clothing,BrandA,333.39,66.94,28.53,36x89x28,False,285,42,2024-03-22
+25,Multi-layered well-modulated circuit Toys,Toys,BrandD,85.18,94.73,34.63,60x19x96,True,991,38,2023-10-11
+26,User-centric homogeneous synergy Home & Kitchen,Home & Kitchen,BrandE,631.03,369.42,47.16,83x83x97,True,519,26,2023-04-20
+27,Cross-group systematic moderator Toys,Toys,BrandA,428.57,180.71,28.23,42x83x70,True,712,10,2023-09-11
+28,Customizable web-enabled workforce Electronics,Electronics,BrandD,629.71,199.65,13.82,55x54x17,False,569,1,2024-02-18
+29,Innovative coherent database Automotive,Automotive,BrandE,811.34,188.25,15.92,87x76x95,True,749,29,2025-06-12
+30,Monitored encompassing knowledgebase Sports,Sports,BrandD,980.4,231.44,10.52,41x20x63,False,882,30,2024-05-27
+31,Sharable mission-critical throughput Home & Kitchen,Home & Kitchen,BrandD,89.96,101.21,18.18,8x65x43,False,199,46,2024-03-18
+32,User-friendly demand-driven extranet Beauty,Beauty,GenericBrand,538.61,108.17,33.33,96x44x11,True,971,31,2022-06-22
+33,Innovative homogeneous methodology Toys,Toys,BrandD,294.84,95.89,31.83,43x7x43,True,429,25,2023-07-04
+34,Profit-focused zero-defect policy Home & Kitchen,Home & Kitchen,BrandA,57.54,338.81,18.61,40x35x69,False,208,28,2024-09-09
+35,Profound heuristic policy Books,Books,BrandC,148.36,289.19,12.04,18x94x92,True,239,28,2024-01-15
+36,Enhanced hybrid framework Home & Kitchen,Home & Kitchen,BrandA,448.09,224.86,31.45,59x21x64,False,258,38,2022-10-04
+37,Future-proofed disintermediate architecture Books,Books,BrandC,114.29,35.6,1.37,74x65x80,False,321,45,2024-05-07
+38,Configurable asynchronous standardization Automotive,Automotive,BrandB,216.49,163.89,20.54,52x68x94,True,261,15,2022-11-10
+39,Grass-roots didactic paradigm Toys,Toys,BrandE,918.4,67.88,36.35,67x36x94,True,288,13,2022-09-15
+40,Realigned zero administration success Clothing,Clothing,BrandD,952.55,62.35,20.09,50x62x19,False,488,24,2023-03-31
+41,Vision-oriented 24/7 framework Clothing,Clothing,BrandC,843.05,375.29,8.2,76x6x92,True,404,37,2025-01-06
+42,Secured analyzing workforce Automotive,Automotive,BrandE,369.53,361.86,49.04,28x99x44,True,415,25,2022-10-12
+43,Vision-oriented composite conglomeration Sports,Sports,BrandB,305.48,62.56,14.44,48x78x43,False,52,10,2023-10-31
+44,Enhanced modular workforce Books,Books,BrandD,838.6,485.97,5.56,7x68x99,True,420,47,2024-01-27
+45,Cloned asynchronous contingency Sports,Sports,BrandE,379.74,341.37,40.81,28x19x31,True,483,12,2024-08-02
+46,Organic executive portal Automotive,Automotive,BrandC,821.34,374.03,10.31,86x25x31,False,400,17,2023-05-15
+47,Business-focused zero tolerance concept Beauty,Beauty,BrandE,471.13,86.09,41.16,50x53x9,True,135,36,2025-03-09
+48,Object-based interactive support Electronics,Electronics,BrandE,399.54,329.2,21.08,76x83x86,False,920,19,2024-11-27
+49,Fundamental executive archive Home & Kitchen,Home & Kitchen,BrandC,830.0,467.24,2.68,6x6x62,False,269,28,2022-09-18
+50,Advanced foreground capacity Clothing,Clothing,GenericBrand,128.0,395.73,21.87,89x83x23,False,225,44,2023-07-13
+51,Ameliorated dedicated extranet Clothing,Clothing,BrandC,596.65,258.34,16.28,66x81x50,True,685,17,2024-11-04
+52,Open-source zero administration strategy Sports,Sports,BrandE,152.8,201.48,39.08,81x49x27,False,419,21,2023-03-07
+53,Monitored composite ability Home & Kitchen,Home & Kitchen,BrandC,662.29,329.21,37.64,11x11x37,False,144,4,2024-10-16
+54,Profit-focused 6thgeneration framework Sports,Sports,BrandA,67.6,282.71,21.13,86x66x52,True,593,10,2023-01-28
+55,De-engineered radical adapter Automotive,Automotive,BrandC,216.2,71.99,1.81,6x31x6,False,918,48,2024-09-17
+56,Adaptive fault-tolerant productivity Sports,Sports,BrandE,995.33,380.49,20.28,76x26x58,False,384,19,2022-08-04
+57,Fully-configurable 4thgeneration workforce Sports,Sports,BrandD,578.44,356.1,18.44,78x86x12,True,194,47,2023-10-11
+58,Polarized coherent instruction set Electronics,Electronics,BrandB,20.01,43.27,37.48,52x12x92,False,925,39,2024-02-07
+59,Open-source 4thgeneration system engine Toys,Toys,BrandE,38.46,164.36,29.78,63x98x23,False,716,23,2022-08-13
+60,Function-based national system engine Books,Books,GenericBrand,515.41,31.25,28.08,68x61x93,False,448,3,2022-10-21
+61,Reduced empowering architecture Beauty,Beauty,BrandE,825.87,240.71,4.62,41x99x9,False,666,7,2022-09-23
+62,Expanded 6thgeneration matrices Clothing,Clothing,BrandD,583.07,113.65,44.31,74x41x77,False,845,49,2024-11-28
+63,Automated encompassing parallelism Electronics,Electronics,GenericBrand,273.8,327.7,41.19,31x37x96,False,191,30,2022-09-14
+64,Monitored local attitude Books,Books,BrandE,254.13,418.44,30.02,9x50x11,True,324,44,2024-06-22
+65,Organized systemic algorithm Home & Kitchen,Home & Kitchen,BrandD,628.47,439.67,14.75,69x29x37,True,421,23,2023-05-29
+66,Synergized hybrid archive Clothing,Clothing,BrandB,482.81,110.45,38.42,42x67x54,True,736,9,2024-10-22
+67,Realigned regional access Books,Books,BrandC,601.66,443.25,29.87,42x21x74,False,358,46,2024-05-18
+68,Team-oriented discrete core Home & Kitchen,Home & Kitchen,BrandB,281.17,444.57,48.5,95x75x73,True,418,40,2022-12-31
+69,Optimized content-based ability Beauty,Beauty,BrandE,46.4,419.15,31.29,100x44x98,False,860,45,2024-08-23
+70,Ergonomic systemic interface Sports,Sports,BrandD,186.3,302.12,30.02,87x33x76,False,732,46,2024-08-17
+71,Right-sized non-volatile open system Automotive,Automotive,BrandE,781.32,461.23,10.82,39x34x93,True,354,8,2025-06-05
+72,Optimized 24/7 strategy Sports,Sports,BrandB,816.6,277.14,25.99,67x53x88,False,92,1,2024-10-19
+73,Profound incremental adapter Clothing,Clothing,BrandC,487.09,78.95,28.05,8x76x42,True,765,26,2022-10-02
+74,Open-source homogeneous strategy Home & Kitchen,Home & Kitchen,GenericBrand,495.14,37.58,34.79,36x21x97,True,609,11,2022-08-06
+75,Assimilated foreground system engine Sports,Sports,BrandC,807.16,232.44,12.07,83x97x5,True,377,2,2024-02-10
+76,Exclusive transitional encryption Automotive,Automotive,BrandE,606.33,255.92,28.14,81x7x58,False,823,39,2025-04-10
+77,Progressive multi-tasking collaboration Automotive,Automotive,BrandD,999.45,223.34,5.9,23x33x14,True,810,42,2022-07-20
+78,Persistent clear-thinking leverage Sports,Sports,GenericBrand,784.09,306.41,6.06,15x61x90,False,909,4,2023-11-23
+79,Open-source even-keeled neural-net Electronics,Electronics,BrandE,381.5,171.08,45.79,63x93x60,False,911,34,2022-09-20
+80,Polarized executive software Home & Kitchen,Home & Kitchen,GenericBrand,833.53,31.21,15.49,29x74x40,True,197,25,2023-06-28
+81,Versatile asynchronous definition Toys,Toys,BrandE,70.77,439.09,31.78,71x33x69,True,366,38,2022-09-29
+82,Cross-group contextually-based workforce Electronics,Electronics,BrandC,900.36,5.58,8.2,67x77x24,False,620,34,2025-03-13
+83,Phased responsive initiative Toys,Toys,BrandB,166.22,293.0,32.59,87x45x16,True,758,9,2023-06-14
+84,Enhanced logistical portal Home & Kitchen,Home & Kitchen,GenericBrand,702.63,453.82,21.29,82x30x34,True,642,30,2023-04-26
+85,Re-engineered motivating knowledge user Home & Kitchen,Home & Kitchen,GenericBrand,163.02,316.71,22.48,28x48x84,False,327,50,2023-08-26
+86,Multi-lateral actuating process improvement Clothing,Clothing,BrandB,74.22,172.26,22.15,15x39x100,True,265,10,2022-11-28
+87,Advanced 5thgeneration definition Home & Kitchen,Home & Kitchen,BrandC,37.76,183.11,3.39,63x19x88,False,439,9,2022-10-15
+88,Realigned asynchronous utilization Electronics,Electronics,BrandB,870.65,301.72,6.82,77x39x36,False,891,50,2024-02-19
+89,Down-sized composite framework Toys,Toys,BrandD,191.57,296.64,23.81,91x50x6,True,33,33,2022-12-25
+90,Customer-focused multimedia benchmark Beauty,Beauty,BrandA,224.77,279.52,21.97,23x36x75,True,934,4,2022-10-10
+91,Intuitive 6thgeneration hierarchy Sports,Sports,GenericBrand,123.5,308.19,10.45,15x95x69,True,33,11,2023-04-25
+92,Synergistic empowering toolset Beauty,Beauty,BrandB,571.76,271.69,25.18,63x30x35,True,106,45,2024-02-29
+93,Optimized methodical forecast Books,Books,BrandC,666.23,89.42,1.13,90x50x22,True,766,2,2022-10-05
+94,Phased scalable model Beauty,Beauty,BrandA,300.13,354.1,45.73,13x34x7,False,590,42,2023-01-29
+95,Multi-channeled discrete software Sports,Sports,BrandD,841.0,305.84,40.96,96x9x70,True,159,14,2023-05-12
+96,Object-based 3rdgeneration benchmark Clothing,Clothing,BrandD,181.55,105.4,45.44,84x90x37,False,714,14,2023-07-07
+97,Innovative encompassing projection Toys,Toys,BrandB,205.47,250.84,29.95,88x21x38,False,907,32,2024-07-04
+98,Object-based demand-driven hierarchy Clothing,Clothing,GenericBrand,520.91,492.9,21.33,34x23x27,False,529,3,2023-09-03
+99,Synergized optimizing forecast Home & Kitchen,Home & Kitchen,BrandE,812.93,384.21,37.98,39x88x44,True,642,15,2024-01-05
+100,Function-based context-sensitive info-mediaries Electronics,Electronics,BrandA,731.27,203.55,11.54,46x93x19,True,625,45,2024-12-27
+101,Monitored neutral benchmark Sports,Sports,BrandD,758.89,439.22,22.04,93x71x30,True,982,28,2025-05-27
+102,Focused value-added methodology Toys,Toys,GenericBrand,391.58,433.67,5.11,21x21x71,True,11,15,2022-06-18
+103,Triple-buffered leadingedge knowledge user Electronics,Electronics,BrandB,575.57,272.53,5.7,85x94x27,False,651,26,2025-01-04
+104,Focused static leverage Toys,Toys,BrandD,172.56,100.33,32.19,39x60x10,True,166,50,2024-08-28
+105,Focused multimedia product Clothing,Clothing,BrandD,774.72,81.63,22.17,65x34x84,False,654,24,2023-11-18
+106,Open-source scalable system engine Home & Kitchen,Home & Kitchen,BrandA,958.49,210.42,16.61,38x98x65,False,801,8,2022-12-18
+107,Synergized mission-critical standardization Automotive,Automotive,BrandB,810.61,312.4,33.39,100x15x41,False,547,49,2025-04-07
+108,Object-based explicit hierarchy Home & Kitchen,Home & Kitchen,GenericBrand,185.65,406.3,14.47,27x75x93,False,904,45,2023-12-21
+109,Team-oriented executive task-force Home & Kitchen,Home & Kitchen,BrandB,181.65,114.91,48.0,93x61x63,True,0,1,2024-11-23
+110,Upgradable systematic system engine Clothing,Clothing,BrandA,159.83,103.41,31.32,89x32x12,True,153,29,2023-12-01
+111,Monitored explicit alliance Sports,Sports,BrandB,749.57,112.84,44.68,35x96x72,True,301,37,2024-03-10
+112,Realigned 5thgeneration strategy Electronics,Electronics,BrandC,703.32,466.73,6.16,44x38x89,True,93,12,2023-04-03
+113,Universal real-time budgetary management Books,Books,BrandD,188.7,21.34,18.75,77x82x52,True,142,28,2024-05-14
+114,Quality-focused fault-tolerant adapter Sports,Sports,BrandA,223.58,204.34,47.76,40x97x36,True,998,13,2025-01-12
+115,Team-oriented clear-thinking intranet Beauty,Beauty,GenericBrand,420.3,156.39,26.24,42x88x99,True,318,48,2023-01-09
+116,Self-enabling tertiary throughput Electronics,Electronics,BrandE,559.74,229.05,10.94,80x90x46,True,454,15,2024-12-10
+117,Managed neutral circuit Electronics,Electronics,BrandE,266.95,197.23,28.6,35x15x90,True,705,20,2022-09-27
+118,Devolved composite approach Sports,Sports,BrandB,286.98,257.15,15.52,44x84x62,True,533,8,2024-08-31
+119,Multi-layered value-added concept Automotive,Automotive,BrandA,497.84,455.41,31.99,12x93x68,True,66,8,2024-01-01
+120,Extended directional policy Automotive,Automotive,BrandA,259.32,498.07,47.9,95x18x22,True,729,23,2023-04-21
+121,De-engineered zero administration hardware Sports,Sports,BrandC,878.86,459.83,48.74,42x64x77,False,636,24,2024-07-03
+122,Networked neutral data-warehouse Electronics,Electronics,BrandB,111.2,459.65,9.44,9x96x5,True,126,10,2024-06-13
+123,Open-architected multi-tasking interface Toys,Toys,BrandD,236.31,337.78,45.85,92x42x22,True,385,33,2024-10-14
+124,Proactive directional encoding Beauty,Beauty,GenericBrand,373.81,448.15,41.63,6x59x34,True,859,37,2022-09-07
+125,User-centric logistical protocol Beauty,Beauty,BrandC,700.94,332.62,35.03,64x94x25,True,827,20,2022-08-29
+126,Operative well-modulated hardware Books,Books,BrandC,207.72,181.27,10.22,34x61x17,True,199,48,2022-08-25
+127,Business-focused static support Sports,Sports,BrandB,432.38,486.25,10.92,57x71x52,False,589,2,2022-09-30
+128,Optimized intermediate adapter Electronics,Electronics,BrandA,852.31,357.33,15.45,74x91x87,False,85,3,2024-12-03
+129,Persistent 4thgeneration Graphical User Interface Toys,Toys,BrandD,928.34,362.96,23.06,81x99x24,True,343,25,2024-11-12
+130,Customizable web-enabled hierarchy Books,Books,BrandE,546.47,25.61,48.52,85x84x65,False,749,35,2022-10-04
+131,Virtual demand-driven definition Automotive,Automotive,BrandE,43.85,465.95,14.2,57x38x27,False,722,43,2023-02-24
+132,Synchronized client-server matrices Automotive,Automotive,BrandE,520.02,173.87,13.02,70x28x33,False,195,24,2024-01-01
+133,Reduced 5thgeneration task-force Toys,Toys,GenericBrand,990.22,207.66,49.49,33x42x51,True,668,44,2024-02-05
+134,Right-sized heuristic framework Toys,Toys,BrandB,908.86,11.8,27.78,25x82x12,False,117,37,2023-04-21
+135,Open-source bi-directional functionalities Toys,Toys,GenericBrand,71.43,297.64,32.1,73x92x63,False,26,16,2024-12-24
+136,Stand-alone asynchronous contingency Toys,Toys,BrandC,38.55,276.72,42.98,26x67x5,False,206,43,2024-01-30
+137,Synergistic global hierarchy Toys,Toys,GenericBrand,754.01,114.04,48.69,61x100x71,False,953,19,2024-01-24
+138,Stand-alone intangible software Home & Kitchen,Home & Kitchen,BrandD,52.62,60.04,0.22,88x12x10,True,396,16,2025-04-12
+139,Managed intermediate approach Electronics,Electronics,BrandB,787.95,374.99,22.4,43x95x27,True,578,18,2023-03-09
+140,Self-enabling homogeneous ability Electronics,Electronics,BrandA,87.57,200.46,45.65,41x51x20,True,937,7,2023-01-03
+141,Persevering 6thgeneration website Sports,Sports,GenericBrand,945.49,134.28,19.42,91x83x72,True,14,7,2025-05-27
+142,Expanded secondary service-desk Sports,Sports,BrandC,355.0,112.24,6.68,65x33x67,False,423,7,2024-05-16
+143,Total fresh-thinking array Beauty,Beauty,GenericBrand,652.14,37.62,8.21,54x32x7,False,977,11,2023-05-26
+144,Monitored multi-tasking hierarchy Electronics,Electronics,BrandC,946.72,44.28,21.23,97x50x60,False,935,4,2024-12-11
+145,Team-oriented secondary customer loyalty Home & Kitchen,Home & Kitchen,GenericBrand,866.31,173.27,16.48,93x8x54,True,517,48,2024-03-26
+146,Implemented homogeneous parallelism Books,Books,BrandC,582.76,297.01,33.72,64x92x8,True,450,12,2023-05-29
+147,Compatible well-modulated structure Automotive,Automotive,BrandE,987.27,440.99,7.97,9x48x7,False,26,18,2022-09-26
+148,Right-sized directional process improvement Home & Kitchen,Home & Kitchen,BrandA,748.37,148.9,38.47,20x91x31,False,129,38,2023-01-25
+149,Reactive dedicated secured line Electronics,Electronics,BrandD,320.04,308.12,10.02,69x69x30,True,990,43,2024-02-26
+150,Enhanced non-volatile flexibility Automotive,Automotive,BrandE,250.53,196.48,42.83,18x30x43,True,319,12,2024-12-30
+151,Fully-configurable real-time analyzer Clothing,Clothing,BrandC,477.73,484.16,23.69,27x16x25,False,937,31,2024-05-08
+152,Secured bifurcated emulation Clothing,Clothing,BrandC,58.02,311.93,12.31,15x99x28,False,448,25,2022-11-08
+153,Triple-buffered reciprocal contingency Home & Kitchen,Home & Kitchen,BrandE,912.04,304.13,46.14,96x61x85,False,661,20,2024-02-26
+154,Up-sized real-time adapter Toys,Toys,BrandC,519.06,91.44,29.41,79x93x20,True,26,9,2023-08-18
+155,Future-proofed mission-critical groupware Clothing,Clothing,GenericBrand,746.84,354.27,32.47,32x90x16,False,458,50,2024-03-12
+156,Diverse homogeneous paradigm Electronics,Electronics,BrandC,978.76,467.19,46.9,90x79x11,False,939,35,2023-11-28
+157,Intuitive web-enabled hierarchy Sports,Sports,GenericBrand,359.85,121.21,48.27,91x9x19,True,921,48,2023-07-18
+158,Devolved 5thgeneration infrastructure Clothing,Clothing,GenericBrand,134.96,43.12,20.16,67x66x73,False,791,27,2023-03-08
+159,Streamlined methodical adapter Home & Kitchen,Home & Kitchen,GenericBrand,958.61,295.92,14.46,48x10x76,True,127,1,2024-08-13
+160,Vision-oriented reciprocal system engine Books,Books,GenericBrand,965.19,459.0,7.08,96x86x47,True,414,50,2024-12-02
+161,Assimilated exuding utilization Automotive,Automotive,BrandC,232.87,429.27,13.57,27x68x5,True,4,24,2025-01-12
+162,Re-contextualized asynchronous hub Home & Kitchen,Home & Kitchen,GenericBrand,424.93,443.59,16.17,61x73x66,True,956,47,2023-08-04
+163,Cloned composite knowledge user Sports,Sports,BrandD,194.61,87.64,15.92,97x99x16,True,563,18,2023-01-19
+164,Right-sized hybrid data-warehouse Beauty,Beauty,BrandA,579.68,485.21,46.82,30x90x58,False,601,22,2023-02-07
+165,Multi-lateral next generation forecast Toys,Toys,BrandE,348.49,35.86,47.6,82x26x86,False,646,49,2022-09-05
+166,Face-to-face impactful groupware Toys,Toys,BrandB,594.81,413.19,38.81,86x20x63,False,833,17,2022-08-16
+167,Inverse asymmetric middleware Clothing,Clothing,BrandB,219.97,412.6,0.64,12x29x74,False,43,15,2024-11-10
+168,Polarized high-level framework Books,Books,BrandB,370.44,31.42,7.05,65x26x87,True,593,45,2022-09-20
+169,Quality-focused grid-enabled orchestration Home & Kitchen,Home & Kitchen,GenericBrand,894.09,30.87,35.9,58x52x74,False,81,32,2023-12-29
+170,User-friendly high-level firmware Books,Books,BrandB,921.07,224.59,4.51,28x82x83,False,559,8,2022-10-28
+171,Enterprise-wide dedicated encoding Toys,Toys,BrandA,550.76,398.47,12.45,46x84x20,False,326,12,2023-06-07
+172,Innovative incremental knowledge user Toys,Toys,BrandB,938.31,4.13,28.47,70x61x78,False,450,3,2024-05-14
+173,Object-based bifurcated orchestration Toys,Toys,BrandB,137.65,222.2,1.61,80x40x76,False,132,6,2024-01-26
+174,Horizontal systematic concept Electronics,Electronics,BrandE,375.15,403.02,47.95,56x87x64,True,573,37,2023-06-21
+175,Advanced well-modulated collaboration Toys,Toys,BrandB,570.94,320.12,7.16,28x39x47,True,394,33,2024-01-30
+176,Decentralized web-enabled pricing structure Clothing,Clothing,BrandD,86.7,367.39,12.2,11x41x16,True,686,22,2023-05-14
+177,Exclusive bifurcated contingency Automotive,Automotive,BrandE,747.74,366.26,9.96,58x28x15,True,103,37,2023-02-25
+178,Open-architected national initiative Beauty,Beauty,BrandD,995.46,469.68,14.32,49x14x68,True,608,3,2024-12-29
+179,Assimilated asynchronous open system Toys,Toys,BrandB,622.04,344.24,34.34,72x65x10,True,169,8,2023-08-20
+180,Intuitive user-facing matrices Beauty,Beauty,BrandC,933.33,184.69,14.58,74x28x89,False,167,30,2025-01-09
+181,Diverse asynchronous architecture Home & Kitchen,Home & Kitchen,BrandE,240.53,269.79,19.28,76x8x90,False,946,19,2024-01-25
+182,Virtual foreground software Toys,Toys,BrandB,90.62,468.51,48.42,50x53x67,True,897,29,2024-09-02
+183,Streamlined well-modulated Local Area Network Sports,Sports,BrandB,564.14,426.19,14.59,22x69x73,True,762,2,2022-07-30
+184,Right-sized motivating analyzer Books,Books,BrandE,65.92,107.7,42.32,29x43x18,False,383,47,2023-01-08
+185,Realigned encompassing system engine Clothing,Clothing,BrandB,304.18,6.27,20.12,64x57x75,False,820,20,2024-01-06
+186,Focused transitional database Clothing,Clothing,BrandE,676.38,427.12,5.24,62x99x55,True,66,18,2025-01-09
+187,Vision-oriented national throughput Clothing,Clothing,BrandC,449.46,483.43,31.65,60x32x63,True,499,29,2024-04-29
+188,Synchronized transitional open system Toys,Toys,BrandD,812.59,261.13,0.88,48x72x16,False,302,10,2024-12-27
+189,User-centric object-oriented circuit Sports,Sports,BrandD,660.46,329.74,28.49,5x31x89,True,350,13,2024-03-22
+190,Robust bottom-line time-frame Sports,Sports,BrandE,518.3,54.52,21.1,59x86x94,True,906,24,2022-09-05
+191,Cross-group bottom-line attitude Electronics,Electronics,GenericBrand,245.49,183.48,5.8,42x10x97,True,675,20,2023-02-14
+192,Profound mission-critical toolset Sports,Sports,BrandC,731.63,168.67,3.05,94x72x33,False,102,46,2024-04-14
+193,Sharable multi-tasking system engine Home & Kitchen,Home & Kitchen,BrandE,859.89,154.25,23.01,21x59x6,False,82,25,2022-12-04
+194,Multi-tiered multi-state knowledge user Clothing,Clothing,BrandC,963.78,50.34,34.51,64x17x38,False,163,6,2022-09-20
+195,Pre-emptive radical complexity Books,Books,BrandD,907.44,476.74,38.01,96x13x44,False,20,47,2025-05-18
+196,Implemented reciprocal instruction set Home & Kitchen,Home & Kitchen,BrandD,913.92,89.99,13.48,87x14x23,False,750,13,2023-04-20
+197,Stand-alone explicit alliance Home & Kitchen,Home & Kitchen,BrandC,340.58,240.75,36.03,89x8x34,False,74,2,2024-01-15
+198,Ameliorated static architecture Beauty,Beauty,BrandC,594.78,33.03,47.25,71x89x71,True,872,33,2023-10-25
+199,Face-to-face asynchronous extranet Books,Books,BrandD,462.63,255.78,47.7,25x77x43,True,515,39,2023-02-08
+200,Face-to-face human-resource info-mediaries Automotive,Automotive,GenericBrand,34.93,127.84,28.14,40x81x29,False,78,9,2024-12-24
+201,Upgradable static strategy Sports,Sports,BrandE,586.2,73.37,34.45,28x11x26,False,464,50,2023-10-08
+202,Synergized demand-driven challenge Electronics,Electronics,BrandE,972.1,145.87,4.41,51x38x68,False,49,34,2023-12-01
+203,Quality-focused next generation data-warehouse Electronics,Electronics,BrandD,501.25,219.88,30.74,11x34x17,False,359,13,2024-10-12
+204,Pre-emptive client-driven emulation Sports,Sports,BrandE,599.52,180.56,33.18,18x81x86,False,477,49,2023-03-26
+205,Balanced systematic software Clothing,Clothing,BrandB,585.24,3.75,46.7,69x26x80,True,420,46,2024-06-04
+206,Grass-roots methodical hardware Clothing,Clothing,BrandD,57.58,439.86,16.99,36x27x91,False,100,26,2024-12-06
+207,Re-contextualized user-facing challenge Books,Books,BrandA,700.18,157.94,6.01,15x17x9,True,308,41,2022-12-09
+208,Exclusive scalable solution Beauty,Beauty,BrandC,839.63,164.91,10.49,63x35x90,False,213,14,2023-01-16
+209,Fully-configurable attitude-oriented matrix Sports,Sports,GenericBrand,689.38,299.94,34.24,89x77x96,False,820,38,2023-07-30
+210,Seamless didactic secured line Electronics,Electronics,GenericBrand,420.74,454.62,0.21,47x50x44,False,518,46,2023-08-02
+211,Digitized cohesive function Home & Kitchen,Home & Kitchen,BrandB,232.18,274.52,17.48,28x53x70,True,366,15,2023-10-07
+212,Optional bandwidth-monitored standardization Home & Kitchen,Home & Kitchen,BrandB,708.09,483.67,33.2,41x41x84,False,11,36,2023-10-06
+213,Phased hybrid toolset Beauty,Beauty,BrandD,833.31,384.79,2.61,69x59x22,True,168,10,2022-10-12
+214,Stand-alone scalable budgetary management Clothing,Clothing,GenericBrand,379.65,296.82,12.18,35x71x71,False,996,34,2023-02-09
+215,Front-line multimedia website Automotive,Automotive,GenericBrand,737.63,434.55,12.25,61x19x26,True,837,47,2023-05-05
+216,Streamlined contextually-based projection Automotive,Automotive,BrandC,533.54,328.3,37.48,85x80x57,False,321,18,2022-10-25
+217,Cross-group reciprocal forecast Toys,Toys,BrandE,245.11,252.01,21.54,12x27x88,False,881,49,2024-04-12
+218,Business-focused 4thgeneration adapter Electronics,Electronics,BrandA,288.15,148.57,18.16,50x39x82,False,744,20,2022-12-05
+219,Visionary didactic success Books,Books,BrandB,696.9,348.47,7.46,10x63x35,True,182,29,2023-02-26
+220,Right-sized tertiary initiative Electronics,Electronics,BrandB,710.93,353.83,31.43,92x92x89,False,680,18,2023-08-09
+221,Reduced object-oriented extranet Clothing,Clothing,GenericBrand,331.6,278.85,37.04,50x85x53,False,409,15,2023-01-15
+222,Profound asynchronous firmware Beauty,Beauty,BrandE,527.73,216.41,7.07,76x24x58,False,797,3,2022-08-13
+223,Synergistic holistic migration Home & Kitchen,Home & Kitchen,BrandA,590.1,293.55,8.31,79x26x62,False,83,7,2022-10-31
+224,Polarized 4thgeneration secured line Sports,Sports,BrandB,421.06,316.74,43.22,44x45x72,True,415,19,2024-12-22
+225,Realigned client-server artificial intelligence Automotive,Automotive,BrandB,263.88,367.33,14.12,86x89x26,False,839,39,2022-11-21
+226,Versatile multimedia middleware Beauty,Beauty,BrandA,789.11,334.29,38.9,9x72x80,True,354,42,2022-12-18
+227,Decentralized scalable methodology Beauty,Beauty,BrandA,818.38,301.87,7.25,6x71x9,True,597,6,2024-12-13
+228,User-friendly reciprocal Internet solution Beauty,Beauty,BrandD,184.28,13.7,32.57,61x89x89,True,669,31,2025-01-13
+229,Pre-emptive needs-based success Sports,Sports,BrandA,936.1,378.52,17.08,50x86x95,True,619,28,2025-05-19
+230,Monitored 4thgeneration open system Electronics,Electronics,BrandD,847.94,231.21,12.97,42x54x47,False,990,7,2023-11-23
+231,Ameliorated full-range knowledge user Electronics,Electronics,BrandD,615.51,113.07,24.69,86x52x89,False,540,14,2024-03-31
+232,Robust radical monitoring Books,Books,BrandE,316.12,170.66,46.38,48x87x89,False,895,49,2023-01-14
+233,Cross-group systemic adapter Sports,Sports,BrandB,50.18,421.93,39.47,41x59x57,False,800,48,2023-01-26
+234,User-centric local function Automotive,Automotive,BrandA,888.87,427.72,28.27,45x18x49,True,201,31,2022-09-16
+235,Cloned impactful interface Clothing,Clothing,BrandA,375.62,432.35,20.96,59x47x93,False,490,41,2023-12-10
+236,Assimilated radical ability Beauty,Beauty,GenericBrand,94.78,326.25,6.76,33x91x7,False,295,34,2023-12-15
+237,Integrated content-based matrices Home & Kitchen,Home & Kitchen,BrandD,386.5,263.88,3.41,68x69x55,True,906,8,2023-10-05
+238,Synergized encompassing paradigm Electronics,Electronics,BrandD,331.88,475.01,20.6,100x54x42,False,765,24,2024-01-20
+239,Customizable secondary groupware Toys,Toys,BrandC,915.94,5.48,33.39,82x83x42,False,727,22,2023-06-25
+240,Advanced stable Graphical User Interface Beauty,Beauty,GenericBrand,775.24,371.78,43.59,8x98x54,True,902,49,2023-02-07
+241,Reverse-engineered web-enabled capacity Automotive,Automotive,GenericBrand,774.0,164.57,31.07,8x8x61,False,643,6,2023-12-08
+242,Progressive dedicated function Home & Kitchen,Home & Kitchen,BrandD,900.04,147.14,40.39,52x27x24,True,677,33,2022-12-28
+243,Re-contextualized analyzing productivity Beauty,Beauty,BrandA,218.89,126.87,16.01,97x75x99,True,446,9,2023-09-26
+244,De-engineered upward-trending solution Home & Kitchen,Home & Kitchen,BrandC,320.48,244.49,5.03,75x51x9,True,487,35,2022-06-24
+245,Adaptive leadingedge leverage Clothing,Clothing,BrandC,41.07,370.18,28.31,70x13x27,True,557,40,2023-10-11
+246,Profit-focused hybrid archive Clothing,Clothing,BrandD,409.42,274.97,26.31,74x66x40,True,996,36,2023-12-14
+247,Customizable 4thgeneration focus group Electronics,Electronics,BrandE,523.45,498.18,30.62,90x64x44,False,802,16,2023-04-19
+248,Operative fresh-thinking encoding Home & Kitchen,Home & Kitchen,BrandA,917.02,393.79,37.37,47x34x57,True,308,4,2023-12-18
+249,Phased multi-state secured line Automotive,Automotive,GenericBrand,990.36,149.01,16.56,19x38x51,False,880,37,2023-04-25
+250,Open-source systemic database Automotive,Automotive,BrandC,390.48,3.77,9.33,8x28x76,False,142,2,2023-02-18
+251,Integrated web-enabled Graphic Interface Clothing,Clothing,GenericBrand,455.82,147.24,36.7,27x49x64,True,668,38,2025-04-27
+252,Sharable national capacity Automotive,Automotive,GenericBrand,974.82,376.34,32.37,73x69x24,True,844,43,2023-05-27
+253,Implemented disintermediate focus group Beauty,Beauty,BrandD,228.08,320.64,38.08,90x55x43,True,98,15,2022-11-09
+254,Reverse-engineered object-oriented interface Books,Books,BrandD,925.0,168.11,27.03,40x88x24,True,419,15,2022-12-16
+255,De-engineered even-keeled info-mediaries Clothing,Clothing,BrandE,136.91,82.29,18.36,18x74x84,True,452,7,2023-06-07
+256,Business-focused methodical approach Automotive,Automotive,GenericBrand,169.73,118.43,39.27,60x63x62,True,238,22,2025-02-08
+257,Open-architected non-volatile Graphic Interface Beauty,Beauty,BrandE,304.06,463.84,45.79,70x99x23,False,150,42,2022-12-05
+258,Secured well-modulated neural-net Automotive,Automotive,BrandB,131.42,115.63,1.47,48x36x84,False,199,36,2022-11-06
+259,Decentralized asynchronous complexity Home & Kitchen,Home & Kitchen,BrandE,297.18,396.12,28.05,34x65x16,True,86,4,2023-11-10
+260,Right-sized reciprocal implementation Clothing,Clothing,BrandE,32.65,185.22,29.85,58x50x22,True,116,5,2024-10-28
+261,Progressive scalable moderator Electronics,Electronics,BrandC,583.59,207.15,31.18,26x44x6,True,908,26,2024-07-12
+262,Mandatory directional core Home & Kitchen,Home & Kitchen,BrandC,177.25,306.25,28.14,46x79x100,False,263,24,2022-11-28
+263,Assimilated bi-directional collaboration Home & Kitchen,Home & Kitchen,BrandB,289.23,247.93,37.88,9x21x92,True,180,6,2024-04-28
+264,Function-based grid-enabled moratorium Sports,Sports,BrandC,591.54,339.1,14.69,64x77x94,True,692,23,2024-07-16
+265,Robust asymmetric standardization Sports,Sports,GenericBrand,10.94,470.53,15.63,74x34x8,True,249,8,2022-11-04
+266,Multi-lateral motivating artificial intelligence Sports,Sports,GenericBrand,721.46,283.11,24.91,50x19x87,True,323,42,2023-10-11
+267,Customer-focused impactful knowledgebase Toys,Toys,BrandA,441.0,382.99,23.78,96x87x47,True,749,32,2025-02-01
+268,Persevering intermediate system engine Books,Books,BrandD,448.55,444.83,45.32,19x9x63,True,527,30,2023-08-28
+269,Organic tertiary moratorium Home & Kitchen,Home & Kitchen,BrandB,960.08,3.02,26.95,61x44x70,False,935,34,2024-06-06
+270,Programmable asynchronous software Electronics,Electronics,BrandD,247.7,442.27,5.62,24x11x84,False,720,50,2025-03-29
+271,Expanded value-added encryption Sports,Sports,BrandE,840.44,206.81,0.86,59x87x5,True,740,38,2022-10-27
+272,Upgradable discrete paradigm Electronics,Electronics,BrandA,92.21,119.57,45.5,63x64x61,True,973,26,2023-05-15
+273,User-friendly eco-centric firmware Books,Books,BrandC,38.04,242.91,8.91,46x30x37,True,243,33,2023-08-02
+274,Focused asymmetric project Sports,Sports,GenericBrand,134.64,322.12,43.86,48x38x13,True,398,37,2023-07-07
+275,Innovative value-added approach Automotive,Automotive,GenericBrand,257.16,318.47,37.58,90x51x68,True,543,43,2023-09-23
+276,Object-based leadingedge Graphical User Interface Sports,Sports,BrandD,879.6,253.74,24.38,68x64x95,False,425,31,2023-10-10
+277,Balanced asymmetric framework Toys,Toys,BrandA,319.52,194.59,13.97,28x80x33,False,477,34,2025-05-17
+278,Reduced national firmware Clothing,Clothing,BrandE,781.2,319.36,37.73,17x64x20,False,842,10,2023-01-03
+279,Triple-buffered full-range software Sports,Sports,GenericBrand,449.33,209.49,2.32,21x62x80,True,270,10,2023-08-04
+280,Automated client-driven capacity Clothing,Clothing,GenericBrand,542.13,120.1,36.06,26x84x99,True,299,27,2024-03-05
+281,Synergistic directional moderator Automotive,Automotive,BrandA,241.71,159.36,9.28,59x53x74,False,165,9,2024-03-19
+282,Total analyzing ability Automotive,Automotive,BrandB,549.37,250.82,5.59,34x39x57,False,400,20,2023-10-02
+283,Automated optimizing hub Toys,Toys,GenericBrand,814.58,287.58,4.77,72x70x93,True,89,13,2022-12-20
+284,Operative neutral neural-net Clothing,Clothing,BrandD,874.26,227.16,22.64,55x66x6,True,892,33,2024-01-14
+285,Persistent didactic Graphic Interface Clothing,Clothing,BrandB,640.08,65.87,11.75,48x64x96,False,802,37,2023-03-05
+286,Open-source empowering productivity Clothing,Clothing,BrandE,171.26,109.39,6.76,43x87x55,False,116,37,2025-04-13
+287,Upgradable zero tolerance orchestration Automotive,Automotive,BrandB,672.66,412.28,9.63,26x78x68,False,948,26,2024-07-19
+288,Streamlined interactive encoding Sports,Sports,GenericBrand,401.81,392.41,39.3,45x85x26,False,772,21,2024-06-19
+289,Optimized content-based intranet Clothing,Clothing,BrandB,496.37,425.15,19.61,26x57x98,False,552,19,2022-09-30
+290,Persistent fresh-thinking workforce Beauty,Beauty,BrandC,583.33,373.25,49.06,20x99x83,False,373,3,2024-10-29
+291,Future-proofed scalable artificial intelligence Clothing,Clothing,BrandC,37.06,198.23,8.51,99x18x41,False,23,22,2023-04-06
+292,Digitized grid-enabled firmware Books,Books,BrandB,676.43,382.33,2.06,100x58x6,False,489,21,2025-06-12
+293,Up-sized object-oriented instruction set Electronics,Electronics,BrandA,62.37,387.81,23.04,5x74x71,False,299,13,2022-06-20
+294,Open-source even-keeled function Sports,Sports,BrandE,469.94,79.68,21.95,52x82x15,True,42,13,2023-02-09
+295,Mandatory system-worthy moderator Beauty,Beauty,GenericBrand,161.03,283.64,1.2,13x71x43,False,18,5,2024-03-02
+296,Right-sized 5thgeneration conglomeration Books,Books,BrandB,24.2,134.1,34.86,11x64x77,False,299,4,2023-02-13
+297,Networked grid-enabled algorithm Beauty,Beauty,BrandE,66.02,290.29,48.91,15x49x60,False,603,27,2025-01-12
+298,Future-proofed multi-state time-frame Electronics,Electronics,BrandC,112.92,43.99,21.15,86x30x21,True,721,23,2022-10-22
+299,Vision-oriented human-resource moderator Books,Books,GenericBrand,305.42,199.62,46.39,17x17x79,False,395,46,2025-02-16
+300,Adaptive coherent knowledgebase Toys,Toys,BrandE,478.14,437.77,40.92,84x35x13,False,478,49,2022-09-29
+301,Horizontal explicit initiative Clothing,Clothing,BrandC,753.48,171.73,13.74,88x16x41,True,725,50,2024-02-23
+302,Devolved global capacity Books,Books,BrandB,523.33,119.74,37.68,16x7x86,False,560,14,2024-07-06
+303,Expanded radical installation Home & Kitchen,Home & Kitchen,BrandD,302.92,84.48,5.82,50x68x66,True,599,13,2024-11-24
+304,Customer-focused bifurcated pricing structure Toys,Toys,BrandD,808.49,439.92,46.52,71x60x64,False,758,4,2024-04-11
+305,Open-architected zero tolerance time-frame Sports,Sports,BrandA,800.23,405.47,41.66,82x15x56,False,985,25,2023-08-09
+306,Switchable bi-directional synergy Automotive,Automotive,BrandC,354.0,128.54,31.56,6x88x52,True,889,24,2022-06-30
+307,User-centric fault-tolerant structure Clothing,Clothing,BrandC,881.47,424.1,44.61,47x79x27,False,792,40,2023-03-06
+308,Fully-configurable systemic success Beauty,Beauty,GenericBrand,875.16,275.89,45.47,47x33x42,False,283,11,2024-07-17
+309,Devolved responsive circuit Beauty,Beauty,BrandC,56.19,257.66,37.53,66x69x78,True,239,39,2022-12-07
+310,Upgradable web-enabled pricing structure Sports,Sports,BrandC,454.61,115.2,0.97,32x45x75,True,155,28,2024-04-05
+311,Customizable optimizing support Clothing,Clothing,BrandE,565.26,304.47,34.13,86x42x70,False,643,21,2024-11-14
+312,Compatible fault-tolerant ability Books,Books,BrandC,476.73,175.77,39.81,45x55x90,False,183,43,2023-08-15
+313,Devolved real-time policy Sports,Sports,BrandD,950.18,301.82,18.39,76x23x10,False,70,37,2022-09-10
+314,Total motivating challenge Sports,Sports,BrandA,37.14,236.45,37.21,41x41x10,False,197,28,2024-04-19
+315,Grass-roots multi-state attitude Automotive,Automotive,BrandE,901.99,444.97,42.41,97x39x91,True,125,40,2022-11-25
+316,Virtual multi-state array Sports,Sports,BrandC,73.89,29.59,12.0,26x55x85,False,61,8,2025-06-12
+317,Balanced multimedia website Beauty,Beauty,BrandB,653.61,152.23,41.91,65x95x94,True,414,15,2022-11-20
+318,Organized 5thgeneration task-force Sports,Sports,BrandA,550.99,414.27,17.58,99x25x61,True,601,7,2024-12-23
+319,Digitized analyzing artificial intelligence Electronics,Electronics,BrandA,129.53,66.02,43.19,12x79x16,True,763,15,2024-08-15
+320,Proactive methodical adapter Clothing,Clothing,BrandD,925.28,59.41,29.75,81x22x67,True,954,49,2025-04-14
+321,Multi-channeled methodical software Automotive,Automotive,BrandE,768.49,229.49,16.19,44x69x69,False,906,11,2023-02-16
+322,Cloned bi-directional website Sports,Sports,BrandC,964.74,64.77,41.21,28x34x90,True,71,41,2024-07-03
+323,Ameliorated clear-thinking extranet Clothing,Clothing,BrandE,395.21,281.02,4.21,12x70x36,False,161,36,2023-01-07
+324,Multi-tiered transitional ability Electronics,Electronics,BrandD,857.74,130.84,43.03,77x99x71,False,697,12,2025-03-05
+325,Future-proofed 4thgeneration implementation Books,Books,BrandB,302.29,427.15,11.54,73x84x55,True,410,34,2023-01-10
+326,Stand-alone scalable workforce Automotive,Automotive,BrandD,658.09,457.2,41.17,49x83x50,True,13,1,2023-11-30
+327,Diverse fresh-thinking open system Toys,Toys,GenericBrand,612.51,287.39,30.99,42x86x71,False,433,33,2023-02-22
+328,Distributed web-enabled info-mediaries Books,Books,BrandE,240.32,34.32,49.34,13x28x69,True,141,47,2024-03-22
+329,Secured encompassing archive Home & Kitchen,Home & Kitchen,BrandA,534.66,95.43,38.82,63x87x59,False,104,23,2024-12-22
+330,Profit-focused methodical functionalities Toys,Toys,BrandD,496.37,48.89,13.37,24x57x58,True,310,14,2022-10-23
+331,Re-contextualized solution-oriented encryption Beauty,Beauty,BrandD,596.29,251.22,25.69,31x76x31,True,411,14,2025-02-16
+332,Managed disintermediate artificial intelligence Electronics,Electronics,BrandC,497.15,141.86,3.22,64x73x15,False,276,15,2023-12-25
+333,Operative well-modulated customer loyalty Toys,Toys,BrandE,423.41,321.0,43.65,5x53x89,True,647,14,2024-10-18
+334,Networked didactic challenge Home & Kitchen,Home & Kitchen,GenericBrand,254.19,182.31,17.31,91x21x9,False,320,22,2024-10-01
+335,Programmable hybrid frame Sports,Sports,GenericBrand,897.56,175.16,3.17,99x6x31,False,285,15,2023-02-08
+336,Reverse-engineered web-enabled utilization Automotive,Automotive,BrandB,723.19,151.93,19.45,67x35x68,True,328,30,2024-04-15
+337,Seamless global function Beauty,Beauty,GenericBrand,22.37,431.13,12.54,11x68x48,False,370,16,2024-07-30
+338,Optimized local knowledgebase Books,Books,GenericBrand,217.86,82.61,45.38,75x75x80,True,973,31,2025-01-04
+339,Up-sized heuristic standardization Toys,Toys,GenericBrand,657.53,181.29,39.37,50x92x51,False,862,17,2024-07-18
+340,Switchable even-keeled hardware Electronics,Electronics,GenericBrand,745.32,61.1,47.11,18x57x45,True,277,36,2025-03-11
+341,Reduced asymmetric success Books,Books,BrandE,273.37,35.3,21.08,27x14x34,True,574,15,2022-11-17
+342,Right-sized homogeneous toolset Electronics,Electronics,BrandC,607.99,39.13,46.07,64x67x76,False,578,4,2025-05-09
+343,Self-enabling bandwidth-monitored adapter Home & Kitchen,Home & Kitchen,BrandA,785.78,43.11,40.34,55x5x46,False,541,41,2024-05-18
+344,Open-architected coherent secured line Electronics,Electronics,BrandC,745.51,243.31,28.81,88x66x41,False,878,17,2025-03-11
+345,Operative cohesive analyzer Toys,Toys,BrandC,653.78,384.97,44.45,87x5x27,False,130,25,2024-12-01
+346,Phased empowering attitude Beauty,Beauty,GenericBrand,546.68,458.34,14.18,50x48x33,False,778,44,2024-01-04
+347,Customizable optimal encryption Beauty,Beauty,GenericBrand,203.82,451.86,9.85,49x23x86,True,505,8,2022-11-15
+348,Grass-roots logistical algorithm Home & Kitchen,Home & Kitchen,BrandC,290.61,128.57,40.03,49x40x48,False,521,25,2023-02-14
+349,Self-enabling stable challenge Beauty,Beauty,BrandD,798.0,486.08,41.56,38x80x62,False,638,14,2024-11-02
+350,Proactive systemic website Sports,Sports,BrandC,307.47,480.24,13.1,74x19x27,False,701,37,2024-09-29
+351,Innovative neutral moderator Clothing,Clothing,BrandA,191.71,416.7,9.53,57x88x13,False,336,34,2024-11-24
+352,Expanded real-time interface Clothing,Clothing,BrandC,487.88,15.96,6.93,88x10x78,False,417,41,2024-04-04
+353,Cross-platform upward-trending middleware Books,Books,BrandE,152.57,275.02,4.62,69x57x79,True,564,36,2023-08-11
+354,Compatible impactful intranet Clothing,Clothing,BrandB,861.58,303.24,32.87,74x89x60,True,882,10,2025-05-06
+355,Exclusive methodical middleware Clothing,Clothing,BrandE,781.48,120.29,9.32,79x41x18,True,247,22,2024-05-23
+356,Optimized responsive customer loyalty Sports,Sports,BrandA,843.92,228.45,39.5,86x24x21,True,37,21,2025-04-22
+357,Customer-focused interactive encryption Toys,Toys,BrandB,574.56,465.78,12.88,78x5x60,False,341,28,2023-10-20
+358,Ergonomic maximized contingency Clothing,Clothing,BrandB,694.29,72.51,20.81,80x49x26,False,491,2,2024-10-09
+359,Monitored object-oriented projection Automotive,Automotive,GenericBrand,257.75,403.33,19.94,43x95x6,False,972,45,2023-04-22
+360,Multi-layered contextually-based capacity Home & Kitchen,Home & Kitchen,BrandD,724.23,231.34,1.3,67x54x47,False,635,5,2023-12-03
+361,Synchronized zero administration extranet Books,Books,BrandD,184.95,297.35,44.25,77x91x87,True,760,3,2023-10-23
+362,Integrated real-time success Electronics,Electronics,BrandA,544.07,406.35,31.58,19x60x51,False,615,23,2023-06-29
+363,User-friendly bottom-line budgetary management Electronics,Electronics,BrandC,252.07,14.68,32.85,89x58x86,False,682,16,2025-03-18
+364,Total reciprocal adapter Home & Kitchen,Home & Kitchen,BrandE,485.02,356.95,14.71,33x85x43,False,136,2,2023-01-01
+365,Virtual local open system Books,Books,BrandE,400.12,221.19,2.8,59x5x92,True,176,40,2024-06-11
+366,Programmable reciprocal moratorium Automotive,Automotive,BrandA,885.08,83.71,46.49,80x60x74,False,260,38,2024-09-09
+367,Business-focused real-time groupware Toys,Toys,BrandC,856.15,189.3,43.52,79x51x53,False,945,15,2024-08-12
+368,Automated actuating parallelism Automotive,Automotive,GenericBrand,845.91,91.36,7.77,100x68x74,True,459,43,2025-05-26
+369,Seamless zero tolerance Graphic Interface Sports,Sports,BrandD,238.78,379.65,1.2,11x40x40,False,980,12,2023-10-14
+370,Fully-configurable fault-tolerant firmware Automotive,Automotive,BrandA,808.83,347.2,4.01,97x26x60,False,730,44,2024-04-13
+371,Multi-lateral bi-directional ability Automotive,Automotive,BrandD,431.6,303.27,2.3,22x10x38,False,790,8,2024-04-15
+372,Face-to-face bifurcated methodology Home & Kitchen,Home & Kitchen,BrandC,306.62,483.6,38.31,85x17x46,True,12,47,2024-01-05
+373,Universal explicit installation Electronics,Electronics,GenericBrand,458.36,499.6,28.37,25x39x94,False,693,16,2023-07-08
+374,Front-line content-based matrices Electronics,Electronics,BrandE,63.69,130.92,16.31,78x71x53,True,404,20,2023-08-10
+375,Profit-focused multi-state circuit Clothing,Clothing,GenericBrand,357.8,42.77,34.15,62x18x47,False,925,50,2024-07-19
+376,Cross-group encompassing projection Sports,Sports,BrandD,355.22,168.96,18.02,37x24x38,False,581,16,2024-12-07
+377,Monitored bottom-line middleware Automotive,Automotive,BrandB,444.33,48.64,2.53,65x20x54,False,754,4,2024-03-08
+378,Open-source national moratorium Automotive,Automotive,BrandB,560.9,227.22,15.21,76x49x75,False,564,33,2023-02-15
+379,Face-to-face well-modulated matrix Toys,Toys,BrandC,322.29,231.93,14.61,48x74x19,False,539,41,2023-01-29
+380,Synchronized context-sensitive Graphic Interface Books,Books,BrandE,112.99,322.52,39.4,79x57x28,True,386,11,2025-04-02
+381,Public-key neutral infrastructure Automotive,Automotive,GenericBrand,26.38,238.22,9.67,87x46x79,False,740,45,2024-07-28
+382,Optional static artificial intelligence Clothing,Clothing,BrandA,39.2,185.13,1.23,100x85x56,False,585,15,2023-10-20
+383,Open-source tangible access Toys,Toys,BrandA,321.27,363.72,40.33,49x46x30,False,887,8,2024-06-12
+384,Organized analyzing help-desk Toys,Toys,BrandE,508.38,238.08,4.58,43x99x70,True,354,37,2024-05-28
+385,Multi-tiered optimal projection Automotive,Automotive,BrandD,443.12,161.17,46.91,61x31x24,False,731,31,2023-09-09
+386,Persistent solution-oriented database Beauty,Beauty,BrandA,554.48,485.02,34.54,60x73x60,False,585,2,2023-10-04
+387,Stand-alone radical info-mediaries Sports,Sports,GenericBrand,858.07,156.61,9.94,99x11x66,True,923,10,2025-05-03
+388,Organized hybrid hierarchy Home & Kitchen,Home & Kitchen,GenericBrand,592.67,170.99,13.24,52x48x70,False,74,28,2024-04-01
+389,Compatible zero administration encoding Books,Books,BrandD,676.11,428.24,36.42,34x46x70,False,974,5,2023-01-23
+390,Function-based multi-state Graphic Interface Automotive,Automotive,BrandB,653.18,237.24,11.47,33x96x10,False,579,37,2025-04-09
+391,Visionary bandwidth-monitored workforce Books,Books,BrandA,592.45,484.02,7.55,52x14x74,True,687,27,2024-07-16
+392,Monitored analyzing middleware Beauty,Beauty,BrandD,652.85,425.55,33.96,14x12x84,False,596,34,2023-03-06
+393,Object-based tangible superstructure Beauty,Beauty,BrandC,556.13,483.48,16.93,19x61x28,False,267,18,2023-07-03
+394,Quality-focused zero-defect hardware Books,Books,GenericBrand,811.95,201.16,45.25,76x89x72,False,238,18,2025-03-16
+395,Team-oriented 5thgeneration toolset Beauty,Beauty,BrandE,920.73,204.27,11.87,31x73x64,True,794,16,2024-06-18
+396,Extended multi-state infrastructure Home & Kitchen,Home & Kitchen,BrandE,56.56,275.93,14.09,53x15x81,False,145,31,2024-09-09
+397,User-centric human-resource migration Electronics,Electronics,BrandD,537.62,457.18,4.48,50x80x37,False,914,25,2022-12-14
+398,Intuitive empowering methodology Books,Books,BrandD,684.07,159.97,16.6,43x60x20,False,784,39,2025-03-25
+399,Implemented modular complexity Electronics,Electronics,GenericBrand,577.55,364.16,1.29,59x71x97,False,806,11,2024-11-09
+400,Ergonomic next generation Graphic Interface Toys,Toys,BrandA,977.7,457.45,26.53,84x83x39,True,209,40,2022-06-18
+401,Balanced 3rdgeneration matrices Clothing,Clothing,GenericBrand,131.57,315.27,12.55,17x51x67,True,71,31,2022-12-19
+402,Optimized foreground project Electronics,Electronics,GenericBrand,84.09,488.49,21.58,25x7x41,False,215,35,2023-10-24
+403,Expanded executive archive Books,Books,GenericBrand,634.54,458.69,40.55,6x88x79,False,882,24,2024-03-12
+404,Enhanced methodical superstructure Electronics,Electronics,GenericBrand,109.16,34.95,32.21,29x61x78,True,346,23,2024-12-18
+405,De-engineered disintermediate array Automotive,Automotive,BrandE,229.55,358.47,22.42,15x65x49,False,811,50,2025-06-01
+406,Open-architected bandwidth-monitored contingency Sports,Sports,BrandC,541.25,231.82,27.2,20x24x47,True,117,24,2023-12-06
+407,Balanced bi-directional process improvement Home & Kitchen,Home & Kitchen,BrandD,466.32,468.5,40.23,93x35x99,False,443,15,2025-06-10
+408,Phased intangible analyzer Clothing,Clothing,GenericBrand,268.23,122.08,13.22,25x40x24,True,989,18,2025-05-02
+409,Progressive eco-centric middleware Sports,Sports,GenericBrand,687.85,150.77,5.56,41x82x40,False,904,12,2022-12-03
+410,Customer-focused next generation pricing structure Home & Kitchen,Home & Kitchen,BrandC,851.46,434.13,2.16,61x20x63,False,941,15,2024-10-15
+411,Persistent mission-critical solution Electronics,Electronics,BrandD,841.16,415.71,49.04,25x23x37,False,713,18,2024-03-10
+412,Business-focused national infrastructure Toys,Toys,BrandE,112.07,394.04,45.44,28x74x84,False,759,13,2024-04-04
+413,Public-key intermediate solution Home & Kitchen,Home & Kitchen,BrandC,211.44,331.76,38.32,5x35x15,True,137,45,2022-10-13
+414,Programmable reciprocal parallelism Clothing,Clothing,BrandD,872.41,123.17,5.98,30x6x85,True,437,20,2024-08-16
+415,Grass-roots object-oriented matrix Toys,Toys,BrandA,24.19,51.1,26.89,38x19x72,True,94,43,2024-08-29
+416,Face-to-face 6thgeneration middleware Automotive,Automotive,BrandA,640.75,161.51,19.27,83x14x47,False,192,21,2023-06-23
+417,Quality-focused multi-tasking strategy Clothing,Clothing,BrandC,914.76,332.13,4.68,78x33x91,False,119,44,2024-07-12
+418,Ergonomic client-driven moratorium Clothing,Clothing,BrandC,622.37,391.26,43.27,45x60x44,False,668,34,2023-08-14
+419,Grass-roots optimal model Toys,Toys,GenericBrand,92.88,268.32,27.84,54x52x47,True,720,44,2023-02-28
+420,Polarized 24hour data-warehouse Clothing,Clothing,BrandB,572.1,462.94,8.06,68x20x63,False,291,45,2024-02-06
+421,Distributed needs-based installation Automotive,Automotive,BrandB,251.18,356.64,26.23,55x41x70,True,219,42,2024-05-29
+422,Future-proofed non-volatile standardization Home & Kitchen,Home & Kitchen,BrandB,475.33,270.79,6.43,86x69x67,False,444,28,2022-06-30
+423,Reactive object-oriented capacity Sports,Sports,GenericBrand,500.31,97.22,18.84,88x22x84,False,109,23,2022-06-26
+424,Operative well-modulated service-desk Books,Books,BrandB,955.7,115.09,45.93,64x10x7,True,888,23,2024-10-02
+425,Fully-configurable mission-critical flexibility Electronics,Electronics,GenericBrand,243.2,169.17,28.54,99x17x63,True,140,19,2025-03-12
+426,Ergonomic well-modulated customer loyalty Toys,Toys,BrandD,984.97,338.53,32.19,58x51x36,True,528,6,2023-02-24
+427,Robust tangible hardware Automotive,Automotive,BrandC,582.33,365.13,0.22,12x53x90,False,579,19,2024-12-21
+428,De-engineered local extranet Books,Books,BrandE,837.82,51.91,28.29,46x52x36,True,896,47,2023-02-03
+429,Decentralized human-resource groupware Clothing,Clothing,BrandC,66.76,435.03,8.82,81x81x95,True,624,43,2024-06-16
+430,Fundamental system-worthy implementation Sports,Sports,BrandA,901.61,451.44,5.92,80x33x30,True,213,11,2023-10-12
+431,Horizontal non-volatile matrix Beauty,Beauty,GenericBrand,850.18,467.42,44.75,33x88x70,True,35,36,2023-08-22
+432,Organic fault-tolerant firmware Clothing,Clothing,BrandE,118.89,103.34,13.41,64x80x46,False,32,36,2023-12-27
+433,Horizontal discrete function Home & Kitchen,Home & Kitchen,BrandA,273.6,40.44,40.83,59x43x66,False,863,6,2024-04-26
+434,Centralized static approach Sports,Sports,BrandE,416.79,40.06,30.74,49x92x97,True,742,26,2022-11-14
+435,Profit-focused clear-thinking service-desk Electronics,Electronics,BrandE,902.11,481.84,17.04,67x76x71,True,154,46,2022-08-16
+436,Organized context-sensitive toolset Books,Books,GenericBrand,183.86,367.27,32.93,69x19x33,True,282,18,2022-09-21
+437,Vision-oriented demand-driven help-desk Books,Books,BrandC,190.11,127.49,27.69,72x95x46,True,91,28,2024-04-19
+438,Compatible dynamic strategy Electronics,Electronics,BrandA,437.01,334.06,8.74,80x95x24,True,151,38,2022-12-14
+439,Networked demand-driven implementation Electronics,Electronics,GenericBrand,662.16,420.59,16.06,23x85x46,False,159,32,2025-03-27
+440,Balanced client-driven monitoring Clothing,Clothing,GenericBrand,546.33,9.82,8.65,46x98x70,True,912,17,2024-10-06
+441,Profound actuating flexibility Toys,Toys,BrandA,602.1,111.48,40.85,56x67x36,False,69,45,2023-01-11
+442,Customizable eco-centric parallelism Sports,Sports,BrandA,490.47,326.69,8.61,25x77x50,False,333,39,2025-05-30
+443,Innovative web-enabled core Toys,Toys,BrandD,693.36,353.08,21.96,50x35x6,True,464,34,2023-02-04
+444,Quality-focused empowering archive Electronics,Electronics,BrandB,366.73,415.21,46.91,77x26x89,True,151,50,2022-11-19
+445,Function-based optimal policy Beauty,Beauty,BrandE,284.81,201.42,16.94,61x51x23,False,422,21,2023-02-15
+446,Cross-platform even-keeled array Electronics,Electronics,BrandA,17.75,6.35,5.34,84x97x94,True,496,27,2024-07-22
+447,Extended client-driven policy Clothing,Clothing,BrandA,986.06,274.58,14.13,58x31x6,True,639,42,2024-11-29
+448,Integrated executive infrastructure Books,Books,GenericBrand,459.25,30.71,21.33,91x84x7,False,407,35,2025-04-23
+449,Realigned methodical forecast Electronics,Electronics,BrandD,115.53,480.47,14.35,5x18x47,False,199,28,2022-11-09
+450,Customer-focused homogeneous paradigm Books,Books,GenericBrand,151.05,117.33,39.89,48x90x38,False,917,12,2025-05-16
+451,Extended 6thgeneration firmware Sports,Sports,BrandE,425.04,174.9,43.39,86x90x21,False,205,29,2024-04-16
+452,Open-architected actuating intranet Clothing,Clothing,BrandE,927.78,41.39,5.48,65x42x44,False,621,1,2022-11-22
+453,Intuitive demand-driven workforce Beauty,Beauty,BrandD,70.35,424.83,14.16,35x27x20,False,818,46,2023-01-16
+454,Centralized interactive system engine Sports,Sports,BrandD,22.94,425.98,25.33,52x21x60,False,744,37,2024-08-01
+455,Vision-oriented object-oriented contingency Clothing,Clothing,GenericBrand,206.35,136.8,1.07,35x88x39,False,122,43,2024-08-11
+456,Team-oriented coherent concept Sports,Sports,BrandD,265.5,77.59,0.79,9x57x60,True,384,25,2025-02-10
+457,Triple-buffered multimedia matrices Electronics,Electronics,BrandA,494.16,455.67,16.47,31x19x65,False,538,49,2022-07-26
+458,Devolved upward-trending time-frame Toys,Toys,GenericBrand,366.61,438.57,31.38,75x81x61,False,200,16,2022-07-08
+459,Cross-platform radical implementation Clothing,Clothing,BrandE,22.47,179.7,32.56,62x32x62,True,653,50,2022-10-10
+460,Expanded transitional archive Beauty,Beauty,BrandB,725.86,386.82,41.29,23x39x68,False,402,30,2023-03-12
+461,Decentralized zero tolerance Graphic Interface Automotive,Automotive,BrandC,372.29,89.83,40.08,59x45x96,True,156,38,2022-07-29
+462,Face-to-face national structure Clothing,Clothing,BrandC,828.0,309.76,14.56,65x51x62,False,48,22,2022-11-15
+463,Re-contextualized tangible flexibility Toys,Toys,GenericBrand,449.14,491.74,23.85,94x59x89,True,966,12,2025-01-21
+464,Automated reciprocal adapter Automotive,Automotive,BrandE,739.64,293.35,32.96,90x70x33,False,688,26,2024-04-12
+465,Face-to-face reciprocal customer loyalty Home & Kitchen,Home & Kitchen,BrandA,496.33,54.34,36.57,33x54x73,True,805,37,2023-10-10
+466,Robust even-keeled info-mediaries Beauty,Beauty,GenericBrand,17.91,499.8,3.85,69x62x32,True,252,44,2023-09-17
+467,Innovative regional software Automotive,Automotive,BrandA,630.51,430.38,48.78,67x54x19,True,10,46,2022-11-27
+468,Profound intermediate Graphical User Interface Beauty,Beauty,BrandE,314.57,392.4,20.57,46x14x34,False,993,16,2023-04-22
+469,Synergized leadingedge knowledge user Clothing,Clothing,GenericBrand,352.29,83.29,49.43,52x48x43,True,672,28,2023-12-17
+470,Front-line dedicated toolset Clothing,Clothing,BrandD,337.52,430.44,36.65,62x97x100,False,624,12,2024-05-05
+471,Proactive dedicated info-mediaries Sports,Sports,BrandE,751.83,67.15,3.67,5x56x57,True,404,6,2022-10-12
+472,Focused dedicated utilization Automotive,Automotive,BrandB,372.58,307.68,9.52,89x97x81,False,211,4,2024-10-24
+473,Profit-focused well-modulated encoding Sports,Sports,BrandE,496.75,101.45,34.07,8x57x33,True,144,1,2025-03-11
+474,Organic impactful hub Beauty,Beauty,BrandE,230.82,47.5,25.3,88x44x46,True,115,2,2024-03-21
+475,Optional directional array Electronics,Electronics,BrandC,720.68,20.62,10.29,29x86x43,False,436,35,2024-09-03
+476,Team-oriented web-enabled architecture Home & Kitchen,Home & Kitchen,BrandB,755.04,83.68,30.96,84x79x48,False,689,11,2022-09-19
+477,Re-contextualized well-modulated software Clothing,Clothing,BrandA,817.6,316.46,45.46,19x87x67,True,416,37,2023-08-19
+478,Organized encompassing array Home & Kitchen,Home & Kitchen,BrandA,585.47,77.25,25.22,11x54x87,True,403,8,2022-10-26
+479,Versatile multimedia array Clothing,Clothing,BrandC,897.39,151.02,30.02,83x95x27,False,206,8,2023-11-06
+480,Streamlined needs-based leverage Beauty,Beauty,BrandC,297.31,245.77,32.49,92x69x55,True,920,26,2024-09-05
+481,Horizontal 24hour throughput Toys,Toys,GenericBrand,270.1,355.0,3.47,7x52x73,True,688,29,2023-11-19
+482,Open-architected modular encoding Sports,Sports,BrandD,769.49,254.62,16.59,26x61x67,False,353,41,2024-08-31
+483,Public-key didactic time-frame Sports,Sports,GenericBrand,559.52,377.2,1.39,53x5x86,True,779,13,2024-10-21
+484,Networked value-added adapter Home & Kitchen,Home & Kitchen,BrandB,550.06,305.11,34.61,13x60x89,True,908,30,2024-04-22
+485,Switchable next generation productivity Toys,Toys,BrandD,288.66,131.82,44.58,6x16x64,True,203,2,2024-12-03
+486,Phased methodical middleware Automotive,Automotive,GenericBrand,140.8,126.08,25.06,69x8x83,False,710,24,2023-01-02
+487,Object-based dynamic moderator Clothing,Clothing,BrandA,738.31,67.34,14.15,25x35x80,True,316,22,2024-01-04
+488,Progressive mission-critical neural-net Clothing,Clothing,BrandD,943.59,73.41,25.2,95x80x21,False,715,39,2024-05-11
+489,Secured optimizing help-desk Beauty,Beauty,GenericBrand,603.36,433.81,29.53,50x57x46,True,437,18,2023-05-23
+490,Organic optimizing time-frame Electronics,Electronics,GenericBrand,344.67,498.45,35.76,24x66x9,True,352,41,2022-07-06
+491,Reduced mission-critical encoding Clothing,Clothing,BrandC,412.8,281.25,35.19,64x60x74,False,325,40,2024-04-26
+492,Cloned foreground throughput Automotive,Automotive,BrandD,137.71,128.32,29.04,50x40x72,True,575,45,2024-05-05
+493,Fundamental 24/7 ability Books,Books,BrandB,568.34,143.3,49.88,8x37x25,False,841,23,2023-03-15
+494,Organized multi-tasking open architecture Automotive,Automotive,BrandD,169.31,296.7,2.06,100x73x51,True,908,14,2023-08-20
+495,Decentralized actuating groupware Automotive,Automotive,GenericBrand,397.72,281.55,39.21,66x27x65,True,225,35,2023-12-16
+496,Business-focused encompassing policy Clothing,Clothing,BrandC,318.44,84.61,33.4,92x5x86,True,238,20,2024-09-19
+497,Mandatory intermediate matrix Sports,Sports,BrandB,621.61,211.97,32.67,34x53x14,False,740,45,2025-05-26
+498,Persevering attitude-oriented workforce Toys,Toys,BrandD,298.39,28.27,8.41,14x29x89,True,750,8,2024-10-31
+499,Distributed composite flexibility Home & Kitchen,Home & Kitchen,BrandE,760.26,5.21,21.1,51x45x23,True,187,23,2024-11-18
+500,Face-to-face bandwidth-monitored neural-net Sports,Sports,GenericBrand,480.97,144.78,25.48,88x47x57,False,461,46,2022-08-02
+501,Ameliorated cohesive attitude Sports,Sports,GenericBrand,723.74,414.76,35.61,75x92x84,False,632,29,2024-04-06
+502,Ameliorated radical website Sports,Sports,BrandE,71.86,378.59,11.99,100x27x80,False,961,39,2024-06-15
+503,Streamlined cohesive functionalities Toys,Toys,BrandA,890.71,135.88,49.58,95x16x46,False,207,18,2023-11-30
+504,Monitored secondary hierarchy Toys,Toys,BrandD,137.28,99.28,28.24,84x36x6,True,79,5,2025-01-25
+505,Reactive heuristic superstructure Toys,Toys,BrandA,426.52,97.27,25.49,37x28x18,False,110,48,2023-11-05
+506,Ameliorated tangible firmware Electronics,Electronics,GenericBrand,580.84,413.13,5.32,54x48x100,True,687,15,2025-05-05
+507,Synergized fresh-thinking infrastructure Clothing,Clothing,BrandD,415.02,153.22,25.83,69x70x61,True,732,3,2025-01-04
+508,Open-source disintermediate open architecture Sports,Sports,BrandD,629.41,259.19,31.51,30x100x93,True,897,26,2024-07-02
+509,Customizable coherent task-force Toys,Toys,BrandD,223.84,252.53,39.07,82x75x49,True,947,16,2024-05-24
+510,Open-source next generation array Electronics,Electronics,BrandD,698.51,161.45,23.44,14x43x78,True,297,21,2024-04-28
+511,Upgradable local productivity Beauty,Beauty,GenericBrand,889.51,5.15,38.78,79x57x42,False,726,38,2023-08-11
+512,Pre-emptive context-sensitive system engine Electronics,Electronics,GenericBrand,129.12,356.38,21.06,10x19x13,True,880,16,2023-05-01
+513,Re-engineered human-resource adapter Home & Kitchen,Home & Kitchen,BrandE,479.93,264.62,8.39,24x83x32,True,394,13,2024-03-08
+514,Streamlined foreground knowledgebase Clothing,Clothing,GenericBrand,573.54,251.08,1.18,58x63x100,True,554,6,2023-04-07
+515,Programmable full-range infrastructure Beauty,Beauty,BrandB,557.44,435.62,6.01,95x73x50,False,31,33,2023-10-22
+516,Triple-buffered content-based neural-net Beauty,Beauty,BrandD,376.79,142.56,23.36,19x62x52,True,650,37,2024-06-04
+517,Virtual even-keeled alliance Toys,Toys,BrandA,468.33,206.38,1.08,59x100x12,False,392,26,2023-02-27
+518,Phased systematic secured line Home & Kitchen,Home & Kitchen,BrandA,981.93,174.4,23.6,62x61x66,False,236,24,2023-01-06
+519,Progressive client-driven customer loyalty Sports,Sports,BrandA,315.34,264.31,25.85,42x98x97,True,353,7,2022-07-12
+520,Vision-oriented responsive task-force Electronics,Electronics,BrandC,984.52,216.31,26.93,84x48x59,False,981,24,2024-02-02
+521,Fully-configurable methodical toolset Sports,Sports,BrandD,344.06,342.55,34.53,100x52x31,True,265,7,2025-01-22
+522,Down-sized system-worthy challenge Electronics,Electronics,GenericBrand,402.17,342.38,39.41,44x17x6,True,509,36,2025-01-22
+523,Decentralized uniform extranet Automotive,Automotive,BrandB,811.43,470.56,16.34,65x79x31,False,912,1,2022-06-16
+524,Synchronized explicit adapter Toys,Toys,BrandE,703.39,214.0,17.5,95x96x37,True,384,48,2025-01-10
+525,Switchable bandwidth-monitored pricing structure Electronics,Electronics,BrandA,362.9,428.51,4.05,44x78x49,False,450,12,2023-06-08
+526,Devolved upward-trending customer loyalty Clothing,Clothing,BrandE,47.97,328.15,21.59,48x38x62,True,591,48,2024-04-29
+527,Customer-focused demand-driven model Home & Kitchen,Home & Kitchen,BrandA,531.26,127.32,42.19,90x89x55,True,450,28,2024-07-13
+528,Multi-layered well-modulated focus group Toys,Toys,BrandE,221.23,449.65,29.58,93x70x24,False,564,27,2023-01-28
+529,Cross-platform 24/7 projection Electronics,Electronics,BrandC,535.11,37.19,9.21,32x42x9,False,811,17,2023-07-31
+530,Self-enabling next generation workforce Automotive,Automotive,BrandB,738.59,277.93,46.69,77x92x70,False,191,31,2025-03-15
+531,Quality-focused asynchronous challenge Books,Books,BrandB,925.31,95.58,13.12,25x34x89,False,600,6,2022-09-29
+532,Synergized explicit workforce Clothing,Clothing,BrandC,56.72,308.65,13.57,75x96x23,False,714,25,2024-10-17
+533,Grass-roots exuding moderator Toys,Toys,BrandB,295.64,435.99,31.84,58x53x98,False,878,34,2024-03-28
+534,Extended object-oriented success Home & Kitchen,Home & Kitchen,BrandE,512.6,459.04,0.88,33x64x62,False,299,40,2024-03-22
+535,Innovative leadingedge core Toys,Toys,BrandB,317.56,371.13,40.21,23x97x60,True,957,20,2024-06-29
+536,Multi-layered multi-tasking open architecture Beauty,Beauty,BrandA,418.7,348.57,20.75,20x78x15,True,963,16,2025-02-27
+537,De-engineered 24hour algorithm Beauty,Beauty,BrandB,38.41,37.8,11.17,69x96x11,True,170,24,2025-06-13
+538,Ameliorated radical Internet solution Clothing,Clothing,BrandD,163.8,71.11,43.03,18x41x81,True,83,5,2023-03-02
+539,Quality-focused optimal extranet Automotive,Automotive,BrandD,829.66,87.81,16.72,64x14x97,False,573,5,2024-03-15
+540,Compatible object-oriented access Books,Books,BrandE,713.74,390.58,17.77,97x42x28,False,894,30,2023-07-28
+541,Virtual directional attitude Clothing,Clothing,GenericBrand,343.66,236.71,25.19,50x36x77,True,334,47,2024-02-18
+542,Operative asymmetric moderator Toys,Toys,BrandE,34.58,461.94,4.61,28x41x45,True,878,7,2024-12-02
+543,Progressive explicit moderator Home & Kitchen,Home & Kitchen,BrandE,866.6,166.7,47.08,82x98x43,False,326,28,2024-03-20
+544,Enhanced multimedia Graphical User Interface Electronics,Electronics,BrandE,252.56,353.35,41.57,72x92x74,False,269,40,2022-11-29
+545,Automated asymmetric collaboration Home & Kitchen,Home & Kitchen,BrandE,108.81,206.81,5.68,47x18x52,False,238,36,2023-09-23
+546,Enterprise-wide bandwidth-monitored application Home & Kitchen,Home & Kitchen,BrandD,254.64,352.71,49.68,62x26x31,False,397,39,2024-10-10
+547,Networked fresh-thinking pricing structure Books,Books,BrandE,750.55,428.39,36.04,99x43x87,True,700,15,2025-03-02
+548,Adaptive explicit structure Beauty,Beauty,BrandD,384.75,255.86,33.58,59x47x25,True,12,10,2025-06-03
+549,Stand-alone upward-trending standardization Beauty,Beauty,BrandD,840.11,229.75,43.27,19x100x69,True,577,49,2023-02-14
+550,Distributed user-facing data-warehouse Automotive,Automotive,BrandD,297.96,43.86,46.32,16x54x53,False,551,48,2023-08-07
+551,Compatible user-facing attitude Electronics,Electronics,BrandA,653.58,491.32,45.88,26x63x70,False,139,16,2024-04-27
+552,Customer-focused dynamic middleware Beauty,Beauty,BrandC,740.24,389.82,48.14,86x56x94,True,780,16,2024-05-12
+553,Inverse bandwidth-monitored analyzer Sports,Sports,GenericBrand,620.57,283.49,46.17,98x91x31,False,946,9,2022-08-13
+554,Enhanced value-added framework Automotive,Automotive,BrandD,93.28,114.46,28.91,54x46x85,False,737,12,2023-11-09
+555,Total modular workforce Books,Books,BrandD,115.69,151.35,21.82,79x43x38,False,530,15,2024-01-31
+556,Synergistic neutral analyzer Toys,Toys,BrandD,294.47,375.24,8.97,66x61x69,False,954,8,2023-07-28
+557,Innovative executive parallelism Electronics,Electronics,BrandD,517.96,106.79,0.43,48x28x23,False,81,17,2022-08-23
+558,Polarized next generation frame Toys,Toys,BrandB,449.99,271.73,37.52,54x64x34,False,448,9,2024-05-30
+559,Future-proofed 24/7 Graphic Interface Books,Books,BrandB,915.15,243.05,36.4,86x63x45,True,930,14,2023-03-15
+560,Virtual impactful policy Toys,Toys,BrandB,586.73,429.73,45.82,46x75x63,False,283,32,2025-05-11
+561,Centralized composite functionalities Beauty,Beauty,GenericBrand,188.55,354.44,46.29,13x67x36,False,668,4,2024-06-24
+562,Up-sized executive utilization Clothing,Clothing,BrandE,433.91,476.37,40.85,5x6x32,True,926,29,2024-10-09
+563,Inverse demand-driven emulation Toys,Toys,BrandD,196.75,311.78,19.32,49x62x57,True,441,16,2023-05-13
+564,Optimized discrete Graphic Interface Automotive,Automotive,BrandC,249.44,258.24,28.82,50x42x20,False,172,47,2025-01-20
+565,Virtual static emulation Home & Kitchen,Home & Kitchen,BrandA,519.1,369.31,30.64,31x49x37,False,144,7,2024-09-09
+566,Progressive encompassing alliance Toys,Toys,GenericBrand,257.37,41.52,21.58,32x48x72,False,606,28,2024-07-11
+567,Devolved encompassing website Beauty,Beauty,GenericBrand,143.7,65.64,0.2,88x44x77,True,978,3,2023-10-18
+568,Inverse web-enabled Local Area Network Home & Kitchen,Home & Kitchen,BrandD,776.8,348.81,43.45,52x17x26,False,379,29,2024-01-26
+569,Stand-alone 5thgeneration portal Automotive,Automotive,BrandA,959.94,397.08,9.35,27x64x8,True,896,13,2025-01-29
+570,Self-enabling bifurcated task-force Beauty,Beauty,BrandD,275.93,405.89,23.34,57x15x59,False,137,12,2023-08-14
+571,Distributed secondary solution Books,Books,GenericBrand,855.86,135.13,45.48,96x83x89,True,701,13,2024-05-06
+572,Versatile explicit database Toys,Toys,BrandB,77.28,165.41,12.64,61x9x94,True,643,21,2024-08-09
+573,Integrated responsive functionalities Toys,Toys,BrandC,997.17,62.95,29.2,76x22x5,False,119,25,2025-03-25
+574,Universal zero-defect archive Books,Books,BrandA,504.74,497.56,24.02,100x14x24,True,80,2,2023-01-13
+575,Centralized bottom-line circuit Beauty,Beauty,BrandD,865.44,204.6,29.75,79x69x88,False,202,45,2022-11-19
+576,Compatible object-oriented application Toys,Toys,BrandB,732.66,111.89,42.15,15x68x94,False,805,37,2022-11-07
+577,Intuitive context-sensitive implementation Sports,Sports,BrandB,79.03,302.68,16.95,62x38x88,True,628,16,2023-07-04
+578,Universal 6thgeneration focus group Home & Kitchen,Home & Kitchen,BrandC,307.43,448.4,41.51,39x20x65,True,900,31,2022-08-15
+579,Automated analyzing leverage Books,Books,BrandC,118.04,35.3,29.7,41x6x71,False,197,41,2023-08-25
+580,Polarized analyzing data-warehouse Clothing,Clothing,BrandC,678.55,342.6,5.37,45x5x20,True,109,11,2025-05-21
+581,Versatile analyzing encryption Sports,Sports,BrandE,173.03,134.8,18.56,9x57x23,False,749,7,2022-10-09
+582,Multi-layered eco-centric capability Sports,Sports,BrandD,798.67,460.22,32.44,61x57x56,True,777,2,2022-12-16
+583,Realigned zero-defect utilization Books,Books,GenericBrand,623.39,57.09,41.24,84x68x38,False,290,8,2023-08-06
+584,Intuitive well-modulated installation Electronics,Electronics,BrandB,769.09,255.56,32.76,67x97x7,True,187,5,2025-05-31
+585,Optional value-added application Books,Books,GenericBrand,207.74,308.82,1.35,100x35x32,False,593,40,2023-10-18
+586,De-engineered object-oriented monitoring Beauty,Beauty,BrandD,556.02,3.38,10.34,10x5x72,False,302,29,2022-08-13
+587,Reactive leadingedge info-mediaries Sports,Sports,BrandA,508.29,306.75,32.02,19x50x21,False,535,40,2023-07-15
+588,Stand-alone client-server forecast Clothing,Clothing,BrandB,915.95,474.06,2.29,65x80x49,False,7,38,2023-01-30
+589,Ameliorated solution-oriented customer loyalty Sports,Sports,BrandE,716.25,300.33,25.01,27x29x23,False,41,42,2023-12-09
+590,Synergistic grid-enabled methodology Books,Books,GenericBrand,97.84,280.27,22.72,78x5x55,False,2,21,2023-01-07
+591,Face-to-face real-time project Clothing,Clothing,BrandA,814.58,467.73,40.49,64x18x83,False,245,2,2024-03-11
+592,Future-proofed multimedia analyzer Automotive,Automotive,BrandD,105.56,167.22,22.24,82x45x57,True,430,1,2024-12-16
+593,Secured eco-centric hierarchy Clothing,Clothing,GenericBrand,686.98,181.61,9.75,9x64x78,False,566,48,2023-01-23
+594,Multi-layered executive budgetary management Home & Kitchen,Home & Kitchen,BrandC,493.21,476.4,45.54,76x22x51,False,171,4,2025-05-19
+595,Object-based zero tolerance contingency Beauty,Beauty,BrandD,237.55,186.93,5.01,84x52x16,False,405,22,2024-10-26
+596,Visionary content-based time-frame Beauty,Beauty,BrandA,339.83,458.14,12.07,92x29x87,True,841,5,2024-12-04
+597,Enhanced maximized project Electronics,Electronics,BrandC,642.56,357.96,16.32,69x64x76,True,827,18,2024-11-23
+598,Self-enabling content-based knowledge user Beauty,Beauty,BrandD,161.36,201.21,27.75,60x71x78,True,484,26,2024-11-28
+599,De-engineered real-time neural-net Home & Kitchen,Home & Kitchen,BrandD,173.48,337.75,34.39,55x53x72,True,958,2,2023-11-26
+600,Customizable 6thgeneration neural-net Books,Books,BrandE,666.95,102.61,21.91,8x51x18,True,993,49,2023-05-10
+601,Open-source interactive synergy Clothing,Clothing,BrandA,34.4,390.21,23.07,20x7x9,True,736,38,2024-09-23
+602,Ameliorated stable circuit Clothing,Clothing,BrandC,438.8,297.39,5.46,21x97x88,True,463,25,2023-12-07
+603,Re-contextualized demand-driven Internet solution Sports,Sports,GenericBrand,939.2,53.71,20.09,67x19x95,True,809,4,2023-02-28
+604,Secured radical service-desk Books,Books,GenericBrand,563.53,195.64,48.98,19x74x17,True,161,4,2023-06-19
+605,Seamless attitude-oriented parallelism Clothing,Clothing,BrandA,521.07,26.77,43.32,97x47x97,True,489,46,2024-03-06
+606,Balanced scalable product Electronics,Electronics,BrandE,982.31,283.23,7.81,54x73x9,True,455,10,2023-06-12
+607,Fundamental exuding functionalities Home & Kitchen,Home & Kitchen,BrandE,684.02,309.91,26.0,96x94x64,True,770,17,2025-04-16
+608,Stand-alone systematic website Sports,Sports,BrandA,617.46,185.42,10.33,75x55x96,False,492,1,2025-05-03
+609,Front-line motivating standardization Sports,Sports,BrandE,122.3,282.32,4.4,27x15x65,False,511,43,2023-12-07
+610,Configurable reciprocal function Clothing,Clothing,BrandB,45.54,411.86,16.43,12x12x57,True,114,6,2024-08-27
+611,Open-architected tangible collaboration Electronics,Electronics,GenericBrand,311.49,64.64,23.95,89x50x17,False,773,17,2025-04-18
+612,Innovative regional intranet Clothing,Clothing,BrandB,164.85,347.47,27.73,79x33x42,True,12,33,2023-07-15
+613,Streamlined bi-directional product Beauty,Beauty,BrandD,113.98,344.94,35.75,36x49x55,False,282,27,2023-10-16
+614,Future-proofed 5thgeneration frame Electronics,Electronics,BrandB,774.15,299.67,32.4,14x40x63,True,541,33,2024-11-06
+615,Optimized cohesive pricing structure Books,Books,BrandC,378.74,390.47,40.06,75x82x62,False,542,9,2023-10-14
+616,Balanced content-based function Beauty,Beauty,BrandA,475.37,41.71,43.36,27x69x28,True,351,25,2023-02-21
+617,Synchronized demand-driven alliance Books,Books,BrandE,123.86,47.07,27.7,6x80x94,True,589,47,2023-02-03
+618,Re-engineered leadingedge firmware Beauty,Beauty,BrandB,681.78,396.08,29.76,64x16x78,False,305,45,2022-10-31
+619,Upgradable intangible secured line Automotive,Automotive,BrandA,651.26,319.54,26.58,37x33x16,False,178,12,2023-07-31
+620,Realigned methodical functionalities Toys,Toys,BrandA,743.49,319.68,48.74,98x25x95,False,465,49,2025-04-26
+621,Profit-focused zero-defect framework Electronics,Electronics,BrandA,832.69,323.19,45.93,56x73x73,True,71,33,2024-03-24
+622,Compatible optimal knowledgebase Home & Kitchen,Home & Kitchen,BrandD,165.92,460.77,48.85,90x76x83,False,779,6,2025-05-27
+623,Extended clear-thinking policy Toys,Toys,GenericBrand,382.05,439.59,46.8,21x5x81,True,83,38,2023-12-12
+624,Automated secondary moderator Books,Books,BrandD,933.74,49.84,6.7,98x52x89,True,479,9,2024-11-17
+625,Synchronized 24/7 utilization Books,Books,BrandE,673.12,474.67,22.96,78x33x65,False,312,48,2025-05-23
+626,Ameliorated scalable paradigm Books,Books,BrandB,734.25,329.9,15.6,20x74x76,False,236,11,2023-05-13
+627,Stand-alone demand-driven productivity Electronics,Electronics,BrandA,380.5,33.36,34.56,18x18x86,True,365,22,2023-01-09
+628,Distributed local budgetary management Sports,Sports,BrandC,582.56,440.68,15.77,74x19x92,False,157,40,2025-04-20
+629,Right-sized global utilization Electronics,Electronics,BrandC,278.11,282.6,6.35,99x84x54,False,262,38,2022-09-19
+630,Object-based actuating encoding Sports,Sports,BrandC,914.49,445.5,40.29,64x97x31,True,440,6,2025-02-16
+631,Public-key uniform core Automotive,Automotive,BrandE,371.88,101.71,45.86,15x55x62,False,467,37,2024-06-29
+632,Universal intermediate software Toys,Toys,BrandB,860.24,326.42,4.76,7x62x73,True,965,15,2024-12-27
+633,Optimized bandwidth-monitored projection Books,Books,BrandB,180.13,336.53,31.24,70x100x20,True,504,40,2023-08-25
+634,Advanced dedicated product Beauty,Beauty,BrandD,459.34,174.56,32.19,54x65x37,True,736,24,2022-09-09
+635,Monitored human-resource customer loyalty Electronics,Electronics,BrandE,194.98,13.22,20.56,71x92x55,True,155,50,2024-08-03
+636,Versatile zero tolerance projection Automotive,Automotive,BrandC,279.62,67.15,8.55,19x28x6,True,368,22,2024-10-27
+637,Grass-roots dedicated Graphic Interface Toys,Toys,BrandE,762.96,486.73,3.1,29x53x86,True,471,10,2024-10-03
+638,Front-line didactic neural-net Automotive,Automotive,BrandA,49.94,20.44,16.53,96x14x99,True,675,16,2024-06-20
+639,Compatible modular benchmark Beauty,Beauty,BrandA,90.93,411.3,25.21,44x17x47,True,34,32,2025-03-02
+640,Mandatory disintermediate time-frame Toys,Toys,BrandB,969.46,198.69,20.11,18x64x13,False,976,5,2024-02-15
+641,Universal background challenge Automotive,Automotive,BrandE,845.3,75.05,43.33,96x55x6,False,241,1,2023-10-13
+642,Face-to-face national challenge Beauty,Beauty,BrandC,203.16,114.88,36.12,61x96x47,False,610,41,2025-02-23
+643,Enhanced regional projection Electronics,Electronics,BrandD,764.28,496.02,20.54,52x40x37,True,261,42,2023-05-02
+644,Inverse incremental toolset Books,Books,BrandA,294.59,352.92,34.48,91x52x29,False,460,13,2023-05-17
+645,Virtual disintermediate Graphical User Interface Beauty,Beauty,BrandB,986.67,397.56,9.09,53x87x30,True,27,30,2024-07-18
+646,Versatile zero-defect instruction set Toys,Toys,BrandC,543.71,45.29,24.07,9x90x71,True,933,36,2023-10-12
+647,Exclusive didactic budgetary management Toys,Toys,BrandA,306.79,193.79,13.92,92x97x76,True,31,25,2023-05-17
+648,Synchronized bi-directional moderator Beauty,Beauty,BrandD,454.75,234.55,40.9,71x76x75,True,617,14,2024-06-16
+649,Reactive 5thgeneration system engine Toys,Toys,BrandD,63.37,385.9,7.37,26x58x59,False,655,6,2024-07-16
+650,Profound heuristic flexibility Automotive,Automotive,BrandB,759.85,409.36,39.39,60x46x81,True,943,28,2025-04-05
+651,Focused global firmware Books,Books,BrandE,885.03,173.4,3.58,6x47x53,True,525,36,2023-03-28
+652,Grass-roots hybrid moratorium Sports,Sports,GenericBrand,921.7,332.97,1.33,14x75x8,True,744,4,2024-05-13
+653,Sharable 24hour migration Beauty,Beauty,BrandE,260.3,162.55,17.17,68x59x74,True,513,49,2022-10-20
+654,Vision-oriented tertiary strategy Sports,Sports,GenericBrand,351.97,406.61,20.8,87x48x46,True,782,32,2022-07-14
+655,Decentralized well-modulated orchestration Home & Kitchen,Home & Kitchen,BrandB,246.43,104.51,34.78,28x100x79,True,321,13,2024-08-03
+656,Multi-lateral real-time service-desk Books,Books,BrandA,159.07,400.9,36.18,97x79x76,True,406,43,2023-03-18
+657,Intuitive heuristic Graphic Interface Toys,Toys,BrandD,792.04,290.58,34.09,76x61x60,False,55,44,2023-08-09
+658,Enterprise-wide non-volatile firmware Automotive,Automotive,BrandC,960.12,100.99,30.98,18x37x61,False,14,8,2023-02-02
+659,Distributed cohesive interface Sports,Sports,BrandC,848.44,254.2,44.4,16x10x77,False,4,9,2023-09-02
+660,Cloned client-driven functionalities Sports,Sports,BrandD,769.59,332.02,32.22,68x79x95,True,550,7,2023-08-05
+661,Adaptive user-facing Graphic Interface Home & Kitchen,Home & Kitchen,BrandB,45.97,440.37,6.93,16x20x61,False,863,18,2022-10-03
+662,Enterprise-wide fresh-thinking structure Beauty,Beauty,BrandD,320.96,39.54,44.43,62x16x82,True,779,22,2024-04-28
+663,Switchable client-driven analyzer Clothing,Clothing,BrandB,680.34,55.2,10.2,68x65x56,True,287,47,2023-02-16
+664,Automated coherent software Home & Kitchen,Home & Kitchen,BrandB,670.67,70.21,26.72,92x80x29,False,752,22,2024-08-10
+665,Phased stable contingency Toys,Toys,BrandC,259.08,464.29,9.06,12x43x33,True,645,20,2024-09-22
+666,Streamlined zero administration frame Electronics,Electronics,BrandC,844.4,432.82,37.28,73x65x68,True,508,48,2022-10-13
+667,Innovative human-resource ability Clothing,Clothing,BrandC,985.93,324.35,33.89,59x97x63,False,281,31,2024-06-20
+668,Distributed disintermediate utilization Home & Kitchen,Home & Kitchen,GenericBrand,752.44,300.0,22.12,36x67x98,True,907,38,2025-03-05
+669,Persistent bifurcated framework Toys,Toys,BrandE,388.71,285.67,8.73,83x58x93,False,338,41,2023-05-05
+670,Visionary full-range infrastructure Beauty,Beauty,GenericBrand,482.0,42.09,3.22,60x96x45,False,627,34,2023-12-06
+671,Configurable leadingedge framework Automotive,Automotive,BrandA,383.96,301.11,41.05,53x49x36,True,350,26,2024-12-30
+672,Public-key fault-tolerant info-mediaries Books,Books,GenericBrand,222.72,145.39,36.27,19x59x66,False,816,25,2024-01-02
+673,Managed explicit ability Books,Books,BrandC,740.79,297.35,26.43,38x18x74,True,875,22,2022-07-09
+674,Reverse-engineered coherent benchmark Home & Kitchen,Home & Kitchen,BrandA,208.71,183.09,46.61,82x68x78,True,449,28,2023-08-21
+675,Monitored fresh-thinking function Clothing,Clothing,GenericBrand,51.77,187.02,33.35,84x96x37,True,171,17,2024-06-21
+676,User-friendly solution-oriented firmware Toys,Toys,BrandE,579.73,459.19,13.78,56x37x66,False,76,48,2022-06-26
+677,Progressive actuating neural-net Automotive,Automotive,GenericBrand,57.64,136.21,0.53,7x66x92,False,86,44,2025-05-31
+678,De-engineered secondary project Electronics,Electronics,BrandA,505.18,410.6,18.0,22x40x94,False,764,20,2023-10-15
+679,Enterprise-wide object-oriented array Books,Books,BrandA,909.88,184.44,46.86,43x40x16,True,751,15,2022-07-21
+680,Centralized encompassing approach Clothing,Clothing,BrandE,691.79,443.97,21.3,12x99x28,True,867,45,2024-09-16
+681,Optimized incremental Internet solution Electronics,Electronics,BrandB,386.99,193.02,7.83,30x81x47,True,827,8,2023-02-07
+682,Business-focused homogeneous matrix Toys,Toys,BrandE,155.09,263.28,43.75,45x73x92,False,0,22,2024-11-30
+683,Secured optimal policy Automotive,Automotive,BrandB,410.27,198.51,6.56,96x67x20,True,909,48,2024-11-21
+684,Intuitive upward-trending ability Automotive,Automotive,BrandA,391.44,172.36,6.81,14x67x62,False,580,18,2023-02-25
+685,Upgradable intangible moderator Toys,Toys,BrandB,506.74,477.53,9.88,12x58x53,True,668,42,2022-07-18
+686,Profound cohesive synergy Toys,Toys,BrandC,964.87,130.99,48.49,50x8x54,False,542,14,2025-03-19
+687,Diverse disintermediate application Beauty,Beauty,BrandE,907.43,349.51,5.51,79x24x11,True,588,45,2024-07-02
+688,Face-to-face radical pricing structure Toys,Toys,BrandE,199.46,255.27,19.77,75x92x66,False,210,17,2022-08-25
+689,Synergistic composite array Electronics,Electronics,BrandC,539.83,231.91,43.19,54x77x79,True,456,50,2022-10-18
+690,Exclusive national policy Beauty,Beauty,BrandB,587.75,14.75,34.44,75x85x88,False,604,16,2025-01-11
+691,Advanced interactive neural-net Automotive,Automotive,GenericBrand,816.26,411.79,17.54,27x22x22,False,644,21,2023-01-19
+692,Ergonomic bottom-line conglomeration Automotive,Automotive,BrandD,161.8,458.6,17.96,55x58x96,False,779,16,2023-08-18
+693,Persevering fresh-thinking database Beauty,Beauty,GenericBrand,822.7,207.1,25.94,89x55x11,True,539,17,2025-05-16
+694,Reduced dynamic toolset Books,Books,BrandA,573.1,98.99,8.73,72x75x49,False,123,24,2024-05-07
+695,Advanced optimal analyzer Books,Books,GenericBrand,786.32,138.44,17.32,36x88x29,False,363,28,2023-07-21
+696,Innovative asynchronous alliance Clothing,Clothing,BrandA,975.59,370.39,36.27,30x44x100,False,882,23,2024-08-05
+697,User-centric global toolset Electronics,Electronics,BrandD,738.4,10.33,4.15,34x75x74,True,549,33,2023-02-07
+698,Mandatory context-sensitive productivity Automotive,Automotive,BrandA,152.71,339.92,49.97,20x52x47,False,509,43,2025-05-27
+699,Fully-configurable cohesive paradigm Automotive,Automotive,BrandD,103.97,491.4,16.32,84x57x12,False,114,31,2024-01-17
+700,Devolved incremental policy Books,Books,BrandE,368.3,108.93,9.58,65x46x76,True,390,18,2025-02-02
+701,Persevering 3rdgeneration installation Sports,Sports,BrandD,125.15,104.29,2.83,93x21x68,False,69,34,2025-03-29
+702,Multi-channeled multi-tasking core Sports,Sports,BrandC,315.15,14.88,34.48,89x95x40,True,265,31,2023-01-03
+703,Triple-buffered zero tolerance complexity Beauty,Beauty,BrandE,76.65,338.7,4.05,23x51x88,True,315,36,2024-06-15
+704,Inverse secondary Internet solution Automotive,Automotive,BrandA,289.68,378.58,33.56,74x68x90,True,276,23,2023-10-08
+705,Integrated zero administration access Automotive,Automotive,BrandD,540.39,246.72,10.91,99x65x56,False,275,36,2022-07-07
+706,Grass-roots executive circuit Home & Kitchen,Home & Kitchen,BrandE,797.12,146.63,47.77,31x16x99,False,749,42,2024-05-13
+707,Intuitive empowering projection Automotive,Automotive,BrandA,104.12,238.75,34.9,64x95x97,True,528,29,2023-05-22
+708,Configurable eco-centric parallelism Home & Kitchen,Home & Kitchen,BrandC,655.36,296.02,1.06,72x39x18,False,736,37,2024-04-17
+709,Optimized bandwidth-monitored functionalities Home & Kitchen,Home & Kitchen,GenericBrand,325.54,498.12,2.24,69x8x72,False,226,32,2023-03-11
+710,Total attitude-oriented hardware Electronics,Electronics,GenericBrand,912.18,286.42,30.58,96x55x80,True,896,2,2024-07-16
+711,Customer-focused directional help-desk Sports,Sports,BrandA,599.98,29.72,46.78,55x23x90,True,912,8,2023-08-11
+712,Reduced neutral circuit Home & Kitchen,Home & Kitchen,BrandB,995.72,301.88,22.43,76x15x14,True,972,22,2024-09-17
+713,Centralized even-keeled moderator Beauty,Beauty,BrandE,787.7,325.4,20.63,91x34x22,True,256,44,2023-05-01
+714,Optimized multi-tasking model Books,Books,BrandE,441.52,422.13,46.92,53x86x30,True,915,6,2024-11-19
+715,Function-based responsive leverage Home & Kitchen,Home & Kitchen,BrandA,826.01,69.49,10.73,18x92x5,True,869,5,2023-12-28
+716,Right-sized uniform firmware Beauty,Beauty,BrandC,437.59,465.13,32.29,41x10x51,False,397,9,2023-04-09
+717,Networked executive help-desk Home & Kitchen,Home & Kitchen,BrandB,240.21,482.31,41.76,89x68x82,False,308,20,2023-06-12
+718,Up-sized mobile neural-net Sports,Sports,BrandD,996.01,188.46,20.05,58x25x9,False,866,23,2024-09-01
+719,Mandatory zero administration ability Toys,Toys,GenericBrand,524.68,192.19,16.1,27x39x29,False,924,45,2024-01-19
+720,Centralized clear-thinking extranet Beauty,Beauty,BrandA,22.23,146.52,22.22,8x16x28,True,189,29,2023-07-21
+721,Phased system-worthy encryption Electronics,Electronics,GenericBrand,721.11,319.28,45.18,69x17x34,False,384,24,2025-01-29
+722,Triple-buffered modular analyzer Sports,Sports,BrandE,972.38,221.38,24.45,42x29x54,True,875,46,2023-12-07
+723,Persistent optimal time-frame Home & Kitchen,Home & Kitchen,BrandA,615.83,468.19,47.6,89x66x19,True,891,32,2025-05-03
+724,Down-sized object-oriented initiative Beauty,Beauty,BrandC,752.05,301.55,5.54,46x31x33,False,382,21,2022-07-15
+725,Fully-configurable modular infrastructure Electronics,Electronics,BrandB,649.37,286.09,41.62,80x10x100,True,370,15,2025-02-24
+726,Customizable optimal middleware Clothing,Clothing,BrandB,376.81,494.61,25.71,74x63x96,False,820,16,2022-07-08
+727,Robust executive access Electronics,Electronics,BrandB,614.39,270.54,36.13,71x22x64,True,114,35,2023-04-19
+728,Balanced human-resource support Electronics,Electronics,BrandA,279.03,411.07,15.45,26x27x25,True,337,8,2023-05-11
+729,User-centric motivating collaboration Toys,Toys,BrandA,272.77,247.37,41.44,88x52x82,True,644,1,2023-10-30
+730,Future-proofed intangible concept Automotive,Automotive,GenericBrand,770.32,257.95,11.22,51x84x41,False,835,30,2024-04-24
+731,Proactive reciprocal synergy Clothing,Clothing,BrandA,710.39,213.77,20.88,42x55x52,True,801,7,2022-07-17
+732,Switchable needs-based algorithm Books,Books,BrandB,248.82,282.12,29.85,39x86x67,True,708,9,2024-03-26
+733,Optimized empowering frame Automotive,Automotive,BrandD,249.65,486.97,24.47,21x40x23,False,703,33,2023-05-07
+734,Managed hybrid utilization Sports,Sports,BrandE,300.57,339.32,44.2,95x12x37,True,357,42,2024-05-04
+735,Visionary system-worthy moderator Home & Kitchen,Home & Kitchen,BrandA,812.48,258.8,20.74,16x79x52,True,95,13,2024-12-13
+736,Self-enabling client-driven core Toys,Toys,BrandB,720.51,470.89,20.22,60x67x27,False,727,14,2023-07-30
+737,Integrated asymmetric collaboration Sports,Sports,GenericBrand,811.61,326.3,3.96,62x66x45,False,826,22,2025-06-12
+738,Persistent even-keeled productivity Automotive,Automotive,BrandD,560.15,148.0,32.88,77x18x75,False,894,35,2023-12-17
+739,Managed static functionalities Automotive,Automotive,BrandA,859.26,285.11,41.06,61x94x94,True,924,36,2025-01-17
+740,Open-architected systematic extranet Toys,Toys,BrandE,177.38,5.57,19.7,87x10x61,False,501,18,2024-11-09
+741,Proactive mobile superstructure Toys,Toys,BrandC,324.76,304.89,30.09,66x57x35,False,962,4,2024-12-09
+742,Decentralized coherent leverage Beauty,Beauty,GenericBrand,84.31,178.04,17.46,31x86x16,True,275,34,2024-04-13
+743,Versatile motivating infrastructure Electronics,Electronics,GenericBrand,492.93,72.69,40.28,51x45x5,False,179,1,2024-01-21
+744,Upgradable stable help-desk Automotive,Automotive,BrandB,981.83,123.17,39.47,24x56x11,True,71,27,2023-11-04
+745,Stand-alone tertiary encoding Electronics,Electronics,BrandB,171.58,265.6,19.52,66x59x25,True,742,32,2023-03-06
+746,User-friendly content-based infrastructure Toys,Toys,GenericBrand,370.01,454.67,9.45,35x30x44,True,524,18,2024-02-02
+747,Operative disintermediate website Automotive,Automotive,BrandB,478.99,338.8,21.52,68x87x55,False,500,49,2023-07-24
+748,Self-enabling holistic concept Books,Books,BrandD,538.29,166.62,16.4,28x43x65,True,104,6,2025-05-03
+749,Customizable explicit monitoring Beauty,Beauty,BrandA,949.61,340.78,26.88,64x97x63,True,422,36,2024-07-08
+750,Virtual regional software Books,Books,GenericBrand,182.46,84.52,40.43,31x48x49,True,911,42,2024-08-11
+751,Persistent upward-trending extranet Electronics,Electronics,BrandE,188.46,389.15,41.01,45x72x37,True,531,2,2023-09-23
+752,Intuitive actuating project Beauty,Beauty,BrandC,705.15,305.14,36.05,19x10x19,True,178,16,2023-08-17
+753,Balanced reciprocal knowledgebase Automotive,Automotive,BrandC,299.24,414.29,7.84,85x14x49,True,98,10,2023-09-17
+754,Reactive high-level forecast Toys,Toys,BrandE,367.27,159.35,17.88,95x66x47,False,491,26,2022-07-21
+755,Realigned multi-tasking parallelism Automotive,Automotive,BrandE,6.45,167.49,19.47,99x38x15,True,693,14,2023-04-07
+756,Phased multimedia neural-net Sports,Sports,GenericBrand,101.36,264.63,2.14,35x94x84,True,437,43,2025-03-07
+757,Progressive scalable encoding Books,Books,BrandE,473.37,435.77,37.38,15x31x27,True,967,34,2022-08-27
+758,Open-source needs-based customer loyalty Clothing,Clothing,GenericBrand,826.15,141.12,30.34,29x41x58,True,611,45,2024-03-02
+759,Front-line attitude-oriented application Automotive,Automotive,BrandC,192.45,288.45,24.64,35x43x45,False,231,3,2023-06-27
+760,Operative reciprocal migration Clothing,Clothing,BrandA,644.64,486.43,47.66,71x96x29,False,206,41,2023-10-19
+761,Right-sized client-server Local Area Network Automotive,Automotive,BrandA,708.08,84.5,37.09,35x8x37,False,444,10,2024-04-16
+762,Integrated clear-thinking approach Home & Kitchen,Home & Kitchen,BrandB,242.27,301.51,14.63,38x91x81,True,83,37,2024-04-21
+763,Expanded intermediate encoding Toys,Toys,GenericBrand,202.38,204.2,42.33,71x72x29,False,669,46,2024-11-20
+764,Extended explicit matrix Toys,Toys,BrandB,712.49,187.35,36.32,97x53x61,False,999,38,2024-07-10
+765,User-centric bi-directional process improvement Clothing,Clothing,GenericBrand,745.97,70.14,26.99,29x74x53,False,323,48,2023-06-09
+766,Re-engineered clear-thinking access Automotive,Automotive,BrandE,291.83,485.9,16.18,31x30x52,True,233,46,2024-01-08
+767,Team-oriented regional solution Clothing,Clothing,BrandC,224.91,226.32,44.92,85x18x76,True,133,33,2023-08-26
+768,Virtual mission-critical data-warehouse Beauty,Beauty,BrandE,921.15,193.82,45.53,41x46x94,True,226,18,2023-02-26
+769,Mandatory global archive Books,Books,BrandB,735.33,131.94,9.68,58x37x24,False,893,22,2023-08-21
+770,Public-key empowering encryption Sports,Sports,GenericBrand,107.24,104.93,48.53,31x85x63,True,498,28,2024-07-12
+771,Mandatory analyzing pricing structure Sports,Sports,BrandC,562.77,187.68,26.25,100x81x26,True,501,49,2023-11-06
+772,Universal hybrid collaboration Home & Kitchen,Home & Kitchen,GenericBrand,221.57,200.46,1.2,5x66x73,True,557,14,2022-12-27
+773,Synchronized interactive archive Books,Books,BrandD,928.36,230.53,26.42,74x51x28,True,186,28,2022-09-01
+774,Sharable user-facing firmware Electronics,Electronics,BrandB,21.31,426.01,46.93,71x23x82,False,713,50,2024-07-16
+775,Profit-focused motivating installation Sports,Sports,BrandE,867.17,481.81,25.81,29x82x58,False,670,18,2022-08-19
+776,Multi-tiered 6thgeneration data-warehouse Automotive,Automotive,BrandE,931.42,45.56,12.14,72x90x42,True,776,35,2023-05-11
+777,Fully-configurable grid-enabled circuit Automotive,Automotive,GenericBrand,313.19,11.1,47.24,41x58x91,True,602,28,2022-11-13
+778,Inverse reciprocal flexibility Automotive,Automotive,BrandD,666.56,331.49,15.24,90x31x42,False,206,25,2023-01-09
+779,Cloned real-time circuit Electronics,Electronics,BrandB,650.67,496.13,6.1,58x67x18,False,7,3,2025-01-09
+780,Innovative next generation definition Clothing,Clothing,BrandC,908.76,226.47,1.04,54x61x91,False,620,10,2022-12-09
+781,Fundamental scalable contingency Automotive,Automotive,BrandE,748.57,55.32,36.49,94x58x96,False,807,40,2024-12-02
+782,Fully-configurable zero-defect flexibility Home & Kitchen,Home & Kitchen,BrandD,615.84,16.14,33.23,24x78x43,True,989,3,2024-01-18
+783,Horizontal interactive array Clothing,Clothing,BrandB,22.06,124.89,40.92,87x85x76,False,16,29,2024-07-10
+784,Optimized encompassing approach Home & Kitchen,Home & Kitchen,BrandE,806.29,495.46,16.68,28x42x83,True,114,5,2023-04-12
+785,Automated 5thgeneration approach Electronics,Electronics,BrandC,743.92,456.06,0.17,20x59x79,True,106,6,2023-04-16
+786,Extended 24hour pricing structure Beauty,Beauty,BrandA,752.49,61.19,11.47,14x62x95,True,951,29,2023-06-05
+787,Grass-roots actuating moratorium Clothing,Clothing,BrandC,695.57,391.18,47.54,47x7x82,True,691,31,2024-01-25
+788,Ameliorated clear-thinking focus group Automotive,Automotive,GenericBrand,366.83,277.63,34.91,99x47x90,False,491,34,2024-06-02
+789,Multi-tiered tertiary forecast Beauty,Beauty,BrandD,488.97,258.91,25.32,9x99x41,True,175,24,2023-03-09
+790,Versatile zero tolerance analyzer Sports,Sports,BrandA,176.25,371.58,49.32,9x62x79,False,675,20,2023-01-29
+791,Digitized leadingedge application Clothing,Clothing,BrandB,952.94,24.27,4.92,13x37x45,False,66,21,2025-03-16
+792,Front-line modular support Toys,Toys,BrandE,192.65,15.18,25.41,98x39x77,True,42,4,2024-11-11
+793,Automated eco-centric Graphical User Interface Toys,Toys,BrandE,652.49,272.44,8.24,67x30x58,False,297,28,2023-07-07
+794,Multi-channeled executive analyzer Clothing,Clothing,BrandC,485.79,37.55,28.23,13x53x91,False,592,46,2022-12-11
+795,Focused bifurcated throughput Automotive,Automotive,GenericBrand,569.48,61.89,13.42,30x84x21,False,802,28,2022-08-21
+796,Persistent real-time intranet Home & Kitchen,Home & Kitchen,BrandD,788.54,88.55,7.16,23x64x27,False,611,40,2024-03-02
+797,Configurable user-facing hierarchy Books,Books,BrandD,477.28,373.39,43.94,57x18x53,True,883,21,2024-07-26
+798,Synergized hybrid customer loyalty Automotive,Automotive,BrandE,320.78,112.11,14.83,96x9x9,True,363,49,2022-10-06
+799,Centralized incremental customer loyalty Beauty,Beauty,BrandB,200.1,318.28,33.28,71x95x87,True,127,6,2023-04-25
+800,Customizable holistic methodology Home & Kitchen,Home & Kitchen,BrandB,423.18,148.92,26.03,78x38x93,True,226,10,2023-02-17
+801,Fundamental motivating emulation Electronics,Electronics,BrandE,905.35,296.9,15.73,89x56x58,True,586,38,2022-10-28
+802,Future-proofed dedicated neural-net Toys,Toys,BrandC,866.5,106.28,0.44,82x26x25,False,624,27,2022-07-30
+803,Realigned 5thgeneration open architecture Books,Books,BrandA,935.26,450.58,16.33,20x27x12,True,843,43,2025-02-13
+804,Public-key bifurcated installation Clothing,Clothing,BrandB,251.02,140.35,0.98,59x52x44,False,516,37,2025-03-22
+805,Enterprise-wide bandwidth-monitored function Beauty,Beauty,BrandC,714.21,109.56,2.95,74x18x9,True,827,13,2023-07-03
+806,De-engineered 5thgeneration open system Clothing,Clothing,BrandA,187.33,421.02,15.24,28x8x17,False,492,36,2023-07-13
+807,Optimized logistical adapter Sports,Sports,BrandD,734.56,111.1,24.77,21x80x54,True,545,25,2023-12-25
+808,Diverse web-enabled monitoring Beauty,Beauty,BrandA,498.33,363.84,38.34,51x39x49,True,693,47,2024-06-26
+809,Re-contextualized leadingedge task-force Beauty,Beauty,BrandD,528.1,486.93,10.94,26x75x93,True,19,35,2024-11-12
+810,Persevering regional function Home & Kitchen,Home & Kitchen,BrandD,386.58,88.56,47.61,69x90x11,False,632,9,2024-04-30
+811,Reactive 24/7 methodology Sports,Sports,GenericBrand,609.23,107.47,1.07,8x40x67,False,299,46,2025-02-26
+812,Progressive cohesive Graphical User Interface Clothing,Clothing,BrandD,76.48,92.77,1.8,68x38x98,True,444,50,2023-06-15
+813,Synchronized attitude-oriented firmware Toys,Toys,BrandE,819.37,441.29,29.28,13x91x79,True,175,5,2023-07-01
+814,Phased homogeneous moderator Books,Books,BrandC,42.52,447.59,11.44,53x56x39,False,849,24,2023-05-22
+815,Virtual system-worthy secured line Clothing,Clothing,BrandE,204.18,418.21,11.7,16x100x27,True,607,27,2023-05-20
+816,Multi-lateral directional system engine Electronics,Electronics,BrandD,977.77,271.76,34.29,88x94x50,True,539,19,2023-03-13
+817,Function-based exuding capacity Electronics,Electronics,GenericBrand,909.44,454.5,23.96,51x29x71,True,392,48,2023-01-20
+818,Polarized asymmetric installation Automotive,Automotive,GenericBrand,207.07,458.9,2.22,6x14x86,False,288,43,2024-01-12
+819,Enterprise-wide 4thgeneration solution Automotive,Automotive,BrandE,124.81,95.96,36.62,95x40x22,True,9,11,2022-11-10
+820,Synergized impactful productivity Clothing,Clothing,BrandD,649.55,220.16,43.1,75x23x59,True,332,18,2024-05-12
+821,Robust 6thgeneration monitoring Automotive,Automotive,BrandC,776.26,184.41,2.1,40x7x59,False,410,2,2025-02-28
+822,Intuitive local application Sports,Sports,BrandB,201.6,362.74,24.68,43x87x57,True,45,26,2024-04-01
+823,Realigned contextually-based functionalities Beauty,Beauty,BrandB,193.21,243.91,21.15,83x76x45,True,688,46,2022-07-21
+824,Multi-layered maximized open system Sports,Sports,BrandD,639.35,121.1,21.0,18x77x24,True,486,45,2023-08-28
+825,Multi-channeled empowering approach Beauty,Beauty,BrandA,453.24,429.02,27.22,46x71x69,True,517,10,2022-11-01
+826,Realigned global hardware Books,Books,BrandB,342.08,3.37,49.31,34x57x15,False,319,1,2023-08-29
+827,Grass-roots context-sensitive orchestration Automotive,Automotive,BrandE,457.06,226.32,30.45,95x91x5,True,279,7,2023-08-26
+828,Multi-layered foreground leverage Beauty,Beauty,BrandC,691.79,391.53,10.4,82x26x98,True,442,31,2024-10-17
+829,Reduced zero-defect hierarchy Electronics,Electronics,BrandC,601.07,325.41,3.16,29x96x43,False,662,15,2023-07-10
+830,Down-sized 6thgeneration Graphical User Interface Books,Books,BrandC,441.33,157.8,3.31,11x59x83,False,30,38,2024-09-02
+831,Persistent eco-centric system engine Toys,Toys,BrandB,553.38,136.31,13.86,79x17x84,False,379,1,2023-07-17
+832,Quality-focused holistic neural-net Clothing,Clothing,BrandE,306.3,488.2,17.84,98x27x23,True,195,4,2023-06-30
+833,Exclusive dedicated protocol Clothing,Clothing,BrandD,927.68,484.31,33.47,43x44x67,True,701,11,2025-05-06
+834,Optional actuating challenge Sports,Sports,BrandE,546.13,64.23,16.94,41x52x64,False,298,11,2023-05-10
+835,Organized object-oriented success Automotive,Automotive,BrandD,828.36,230.04,19.31,8x37x31,True,739,50,2024-08-02
+836,Cloned even-keeled capacity Beauty,Beauty,BrandE,759.77,229.51,23.67,43x94x62,True,659,2,2023-04-20
+837,Seamless radical policy Home & Kitchen,Home & Kitchen,BrandA,763.25,453.93,28.86,88x17x10,False,137,17,2025-05-16
+838,Expanded multi-tasking project Sports,Sports,BrandE,692.12,495.73,12.44,28x58x15,True,667,47,2023-05-20
+839,Innovative leadingedge interface Sports,Sports,GenericBrand,793.53,218.81,11.89,97x85x83,True,763,35,2022-08-02
+840,Multi-layered zero tolerance structure Toys,Toys,BrandA,598.27,139.38,35.75,87x87x36,False,807,3,2024-08-31
+841,Robust bandwidth-monitored support Sports,Sports,BrandC,877.42,224.55,40.71,66x18x75,True,638,25,2023-10-30
+842,Profound discrete groupware Automotive,Automotive,BrandE,142.85,343.85,18.05,53x64x11,False,210,44,2023-01-10
+843,Function-based logistical definition Automotive,Automotive,GenericBrand,245.48,349.86,48.6,64x39x19,True,385,38,2022-12-01
+844,Cross-platform intangible migration Clothing,Clothing,BrandD,719.69,38.22,20.68,53x44x38,False,767,16,2023-08-24
+845,Reduced next generation standardization Sports,Sports,BrandA,566.6,272.59,45.53,57x51x58,False,957,50,2024-07-08
+846,Future-proofed non-volatile superstructure Clothing,Clothing,BrandD,68.61,335.29,12.69,22x39x20,True,928,47,2024-01-23
+847,Profound solution-oriented concept Clothing,Clothing,BrandC,593.54,3.96,40.7,61x87x61,True,42,21,2024-07-20
+848,Robust bottom-line architecture Books,Books,BrandB,670.93,250.8,15.69,57x86x32,True,439,38,2023-07-30
+849,Right-sized methodical model Electronics,Electronics,BrandC,643.19,242.75,28.14,42x13x9,True,995,25,2024-04-11
+850,Innovative maximized function Clothing,Clothing,BrandE,647.94,78.9,12.58,52x37x39,False,762,27,2023-06-27
+851,Versatile tangible software Home & Kitchen,Home & Kitchen,BrandD,640.94,88.6,2.46,39x81x14,True,444,38,2023-11-25
+852,Progressive content-based project Electronics,Electronics,BrandD,242.61,313.44,34.45,92x80x73,False,112,50,2023-08-27
+853,Ameliorated even-keeled initiative Electronics,Electronics,BrandC,229.13,358.95,20.28,51x97x70,False,26,36,2024-09-02
+854,Enterprise-wide scalable implementation Electronics,Electronics,BrandA,603.84,330.59,16.02,38x47x18,True,30,9,2024-06-08
+855,Adaptive mission-critical Internet solution Automotive,Automotive,BrandE,140.21,151.42,34.05,35x87x29,False,430,19,2025-04-03
+856,Total foreground utilization Beauty,Beauty,BrandE,119.31,465.25,6.75,50x47x43,False,501,50,2025-02-28
+857,Focused actuating contingency Toys,Toys,BrandE,303.61,451.27,29.95,41x97x61,False,291,19,2024-11-20
+858,Future-proofed needs-based matrix Home & Kitchen,Home & Kitchen,BrandE,777.48,261.58,5.63,74x13x54,False,264,34,2023-07-15
+859,Future-proofed real-time project Beauty,Beauty,BrandB,868.45,425.3,29.33,80x19x38,True,608,18,2022-07-05
+860,Assimilated bottom-line data-warehouse Clothing,Clothing,BrandA,145.62,46.69,43.52,81x91x81,False,1,3,2023-06-19
+861,Multi-channeled grid-enabled core Beauty,Beauty,GenericBrand,263.32,38.19,28.68,84x46x33,False,735,39,2023-11-19
+862,Fundamental high-level database Beauty,Beauty,BrandC,821.83,339.21,19.88,25x67x57,True,219,3,2022-07-28
+863,Team-oriented 24/7 model Clothing,Clothing,BrandE,547.04,316.4,19.49,58x25x32,True,170,22,2024-06-30
+864,Face-to-face context-sensitive database Sports,Sports,BrandD,74.92,448.9,36.22,27x10x85,False,137,10,2024-10-04
+865,Organic secondary circuit Electronics,Electronics,BrandA,364.33,117.68,48.93,82x26x9,False,698,35,2023-12-27
+866,Exclusive methodical synergy Toys,Toys,BrandA,686.94,34.19,27.92,32x34x90,False,750,16,2023-12-18
+867,Synergistic full-range architecture Books,Books,BrandE,301.07,193.79,12.75,53x58x64,True,710,37,2024-11-18
+868,Operative human-resource leverage Clothing,Clothing,GenericBrand,748.61,55.59,13.92,41x50x90,False,379,8,2024-11-27
+869,Horizontal logistical info-mediaries Home & Kitchen,Home & Kitchen,BrandE,837.72,19.21,39.85,56x64x98,False,15,43,2023-09-12
+870,Networked bi-directional concept Clothing,Clothing,GenericBrand,281.42,58.99,2.99,67x93x99,False,739,11,2025-01-23
+871,Public-key background interface Electronics,Electronics,BrandC,910.13,486.97,24.98,11x51x62,False,887,16,2023-08-24
+872,Optional hybrid Graphical User Interface Home & Kitchen,Home & Kitchen,BrandE,958.57,89.14,39.36,99x24x33,False,767,47,2023-01-23
+873,Ameliorated high-level data-warehouse Books,Books,BrandE,724.22,306.67,13.63,90x13x79,True,587,12,2024-03-03
+874,Progressive client-server adapter Home & Kitchen,Home & Kitchen,BrandE,799.91,103.41,4.96,21x35x37,False,534,9,2023-04-14
+875,Digitized systematic hub Books,Books,BrandB,376.87,405.11,26.36,11x47x46,False,688,30,2024-04-27
+876,Extended asymmetric algorithm Toys,Toys,BrandD,744.97,465.98,37.38,93x13x45,False,471,2,2022-10-15
+877,Polarized dynamic policy Books,Books,BrandE,179.49,445.97,41.28,5x74x17,True,48,7,2023-09-26
+878,User-friendly discrete groupware Toys,Toys,BrandB,63.66,279.56,39.59,89x65x13,True,450,39,2022-12-18
+879,Profound systemic service-desk Beauty,Beauty,GenericBrand,77.38,8.13,39.8,16x75x26,True,36,33,2024-03-23
+880,Fully-configurable human-resource data-warehouse Home & Kitchen,Home & Kitchen,BrandC,513.84,324.83,44.24,42x84x24,False,58,38,2025-05-06
+881,Digitized leadingedge moratorium Electronics,Electronics,GenericBrand,398.25,245.44,41.91,65x68x95,False,488,21,2025-01-21
+882,Multi-tiered explicit attitude Beauty,Beauty,BrandD,994.95,351.97,14.51,50x17x93,True,222,4,2024-08-22
+883,Multi-tiered value-added extranet Beauty,Beauty,BrandA,425.13,193.66,34.51,51x33x13,False,953,30,2025-05-26
+884,Stand-alone reciprocal orchestration Electronics,Electronics,BrandD,36.9,249.01,3.43,31x84x57,True,812,46,2023-05-20
+885,Multi-layered content-based hub Beauty,Beauty,BrandE,878.03,33.15,44.08,82x100x61,True,633,23,2024-02-03
+886,Function-based attitude-oriented concept Home & Kitchen,Home & Kitchen,GenericBrand,54.68,389.36,21.16,56x69x30,True,535,4,2022-12-29
+887,Polarized non-volatile matrices Beauty,Beauty,BrandA,961.36,175.56,27.45,90x43x93,False,142,37,2024-05-30
+888,Devolved bi-directional knowledge user Automotive,Automotive,BrandD,641.17,389.18,5.74,62x20x29,False,162,8,2024-08-10
+889,Vision-oriented grid-enabled strategy Clothing,Clothing,GenericBrand,162.74,311.07,24.0,76x66x29,True,861,48,2022-07-25
+890,Secured holistic application Clothing,Clothing,BrandD,666.29,47.94,34.94,12x100x21,False,421,5,2025-05-27
+891,Organic coherent synergy Sports,Sports,BrandE,874.4,460.91,19.33,99x81x13,False,594,12,2024-12-23
+892,Total optimizing database Electronics,Electronics,BrandB,873.78,495.36,20.3,88x43x60,True,94,37,2022-09-06
+893,Cross-group holistic workforce Books,Books,BrandD,141.05,385.92,42.51,42x12x69,True,129,14,2024-04-23
+894,Up-sized holistic encoding Electronics,Electronics,BrandA,913.82,184.66,29.48,85x65x37,True,97,23,2023-06-27
+895,Face-to-face actuating archive Beauty,Beauty,BrandE,813.02,394.04,38.09,78x19x59,False,242,29,2025-02-23
+896,Innovative 5thgeneration functionalities Electronics,Electronics,BrandC,59.47,358.34,48.86,96x63x62,False,852,1,2024-08-15
+897,Vision-oriented transitional matrix Clothing,Clothing,BrandC,788.16,205.29,17.66,10x21x33,False,1000,48,2023-11-03
+898,Networked empowering strategy Toys,Toys,BrandA,526.02,148.75,7.24,95x77x98,False,270,41,2023-03-28
+899,Ameliorated modular algorithm Electronics,Electronics,BrandD,20.47,489.26,3.21,5x20x61,False,35,18,2025-05-09
+900,Ergonomic hybrid moratorium Beauty,Beauty,BrandB,616.92,104.93,13.94,36x76x13,True,202,7,2023-04-14
+901,Organic bi-directional encoding Home & Kitchen,Home & Kitchen,BrandB,903.68,438.81,20.0,34x60x29,False,273,37,2023-08-17
+902,Persistent heuristic success Automotive,Automotive,GenericBrand,159.67,85.32,22.79,83x36x62,True,724,39,2025-01-29
+903,Open-architected demand-driven interface Clothing,Clothing,BrandC,238.17,230.23,25.42,99x23x96,True,623,44,2023-01-13
+904,Future-proofed responsive capability Automotive,Automotive,BrandB,655.54,467.7,46.64,63x49x47,False,434,4,2024-07-20
+905,Innovative neutral architecture Sports,Sports,BrandA,556.49,447.8,39.78,96x92x19,True,47,29,2024-08-13
+906,Sharable demand-driven paradigm Sports,Sports,BrandB,950.71,231.7,12.96,35x61x82,False,988,25,2024-11-06
+907,Persistent client-driven open system Toys,Toys,BrandC,411.49,170.34,23.0,28x52x58,False,306,42,2024-05-18
+908,Cross-platform 24hour strategy Toys,Toys,BrandA,909.71,434.37,3.4,89x72x65,True,131,22,2022-07-26
+909,Horizontal systematic complexity Beauty,Beauty,BrandE,762.79,229.35,0.66,59x67x60,True,542,12,2024-11-09
+910,Business-focused 24hour Graphic Interface Home & Kitchen,Home & Kitchen,BrandD,662.47,150.66,19.35,69x98x26,False,730,46,2024-03-02
+911,Face-to-face local hierarchy Home & Kitchen,Home & Kitchen,GenericBrand,758.02,70.85,24.92,69x92x86,True,727,38,2023-07-20
+912,Future-proofed composite Internet solution Automotive,Automotive,BrandC,578.66,73.66,25.62,68x49x74,True,26,47,2023-07-29
+913,Balanced scalable product Books,Books,BrandC,29.65,79.57,46.4,85x35x35,True,714,9,2024-11-21
+914,Right-sized methodical concept Beauty,Beauty,BrandC,406.96,41.15,49.73,95x5x41,False,901,18,2022-07-17
+915,Quality-focused background analyzer Books,Books,GenericBrand,816.06,282.31,24.95,23x58x10,False,509,9,2024-04-28
+916,Innovative reciprocal neural-net Sports,Sports,BrandE,590.16,333.87,6.51,21x6x88,False,8,48,2024-07-31
+917,Multi-tiered cohesive projection Automotive,Automotive,BrandA,548.03,415.63,41.99,51x71x44,True,402,1,2024-05-13
+918,Diverse solution-oriented parallelism Sports,Sports,BrandE,540.79,125.04,7.62,43x91x21,False,516,18,2024-05-02
+919,Profound fault-tolerant software Electronics,Electronics,BrandC,880.73,320.2,39.79,16x34x27,True,556,20,2025-01-25
+920,Digitized secondary capacity Electronics,Electronics,GenericBrand,141.77,200.46,42.7,97x36x79,False,510,45,2024-06-13
+921,Optimized holistic Graphic Interface Toys,Toys,BrandD,366.02,98.26,46.92,26x67x19,False,913,44,2024-12-27
+922,Extended 6thgeneration alliance Home & Kitchen,Home & Kitchen,BrandD,261.31,41.43,37.8,75x43x27,False,879,5,2025-04-16
+923,Re-engineered context-sensitive Graphic Interface Beauty,Beauty,BrandB,483.02,321.11,18.63,93x87x27,True,218,29,2024-12-01
+924,Monitored encompassing hierarchy Clothing,Clothing,BrandE,517.94,453.52,45.02,26x99x65,False,122,12,2023-02-24
+925,Secured maximized access Electronics,Electronics,BrandE,871.81,313.69,4.54,91x56x80,True,577,3,2023-03-11
+926,Face-to-face attitude-oriented archive Toys,Toys,BrandD,927.62,375.12,8.96,22x12x11,True,515,43,2022-08-30
+927,Open-architected zero administration success Beauty,Beauty,BrandC,767.79,315.49,29.25,29x29x74,True,738,28,2024-01-04
+928,Robust 4thgeneration initiative Electronics,Electronics,BrandC,936.51,449.75,42.78,26x65x95,True,186,37,2023-09-26
+929,Grass-roots even-keeled task-force Clothing,Clothing,BrandD,507.84,401.12,29.02,41x85x26,True,622,29,2023-10-29
+930,Devolved client-server challenge Clothing,Clothing,BrandE,470.03,52.03,49.67,78x30x32,True,759,28,2023-04-26
+931,Centralized local open architecture Sports,Sports,BrandC,947.6,89.57,48.3,11x6x71,True,449,21,2024-05-12
+932,Up-sized homogeneous artificial intelligence Home & Kitchen,Home & Kitchen,BrandD,469.69,56.16,6.15,69x27x62,False,189,22,2023-12-16
+933,Innovative demand-driven methodology Automotive,Automotive,BrandB,601.26,182.18,3.97,43x30x5,False,308,36,2023-04-01
+934,Upgradable 5thgeneration emulation Sports,Sports,BrandE,972.96,310.59,29.73,12x68x21,False,455,43,2022-10-26
+935,Persevering bifurcated system engine Clothing,Clothing,BrandB,508.44,36.92,31.03,39x7x31,True,150,44,2023-05-21
+936,Self-enabling optimal system engine Toys,Toys,BrandB,20.45,22.38,8.87,64x64x89,False,166,37,2024-07-03
+937,Self-enabling system-worthy collaboration Electronics,Electronics,GenericBrand,821.73,94.72,40.81,32x59x91,True,785,38,2023-12-10
+938,Multi-layered static matrix Clothing,Clothing,GenericBrand,164.95,344.63,1.5,25x66x94,False,131,30,2024-06-27
+939,Cross-platform coherent flexibility Clothing,Clothing,BrandB,833.17,487.64,37.35,73x39x64,True,432,9,2025-04-03
+940,Integrated responsive Internet solution Books,Books,BrandD,198.09,267.71,34.61,51x88x90,False,934,21,2023-05-19
+941,Up-sized regional capacity Beauty,Beauty,GenericBrand,441.51,415.95,29.4,40x50x21,True,748,49,2022-10-04
+942,Ameliorated multi-tasking knowledgebase Electronics,Electronics,GenericBrand,273.66,359.87,16.68,86x37x25,False,424,7,2024-07-30
+943,Profit-focused human-resource challenge Clothing,Clothing,BrandD,210.72,244.42,41.28,36x97x92,False,702,17,2023-12-14
+944,User-friendly leadingedge concept Beauty,Beauty,BrandA,851.01,438.47,41.29,52x60x47,True,435,38,2022-08-02
+945,Integrated full-range success Home & Kitchen,Home & Kitchen,BrandD,37.56,464.21,0.47,81x48x57,True,231,45,2023-07-04
+946,Distributed transitional process improvement Toys,Toys,GenericBrand,724.99,277.41,12.55,86x27x60,True,725,39,2024-07-03
+947,Configurable systemic hub Clothing,Clothing,GenericBrand,382.18,185.02,33.24,63x44x58,True,274,32,2024-06-27
+948,Fundamental needs-based portal Clothing,Clothing,BrandA,45.64,8.89,49.12,12x11x35,False,696,45,2024-01-26
+949,Vision-oriented object-oriented installation Beauty,Beauty,BrandB,178.55,20.67,23.24,84x33x40,False,453,3,2024-02-23
+950,Diverse systematic knowledge user Books,Books,BrandE,386.65,363.02,6.13,27x96x54,False,634,45,2022-06-20
+951,Re-contextualized object-oriented matrices Electronics,Electronics,BrandB,494.69,126.83,4.56,47x52x50,False,232,8,2024-10-12
+952,Switchable well-modulated interface Automotive,Automotive,BrandC,868.15,132.69,26.13,21x37x26,True,372,9,2023-04-24
+953,Profit-focused leadingedge strategy Beauty,Beauty,BrandA,211.04,162.23,14.55,40x52x7,True,406,13,2023-10-08
+954,Inverse zero administration projection Electronics,Electronics,BrandE,807.82,247.48,10.0,74x38x87,True,307,11,2025-03-09
+955,Integrated incremental paradigm Beauty,Beauty,BrandB,588.58,266.44,7.2,28x51x23,True,252,19,2025-06-06
+956,Vision-oriented client-server firmware Automotive,Automotive,BrandC,374.15,245.99,33.99,17x95x53,False,905,49,2025-02-04
+957,Visionary stable intranet Books,Books,BrandE,820.12,99.66,2.38,43x30x11,True,372,5,2025-01-10
+958,Team-oriented system-worthy artificial intelligence Books,Books,BrandD,62.85,367.28,14.95,59x44x11,True,452,49,2024-11-11
+959,Digitized interactive focus group Sports,Sports,BrandD,610.57,339.01,30.88,81x6x8,False,394,3,2023-11-25
+960,Organic grid-enabled data-warehouse Automotive,Automotive,BrandB,230.83,287.85,5.02,24x67x92,False,21,13,2024-03-19
+961,Polarized full-range standardization Sports,Sports,BrandD,169.59,486.0,22.49,79x58x44,True,851,22,2022-07-10
+962,Persistent maximized success Clothing,Clothing,GenericBrand,564.47,234.06,39.19,13x79x7,True,72,21,2022-10-19
+963,Multi-layered regional help-desk Automotive,Automotive,BrandC,403.92,209.39,1.19,48x6x81,True,896,44,2023-12-10
+964,Expanded composite software Clothing,Clothing,BrandB,975.68,469.08,26.27,58x25x16,True,419,26,2024-07-23
+965,Intuitive local extranet Automotive,Automotive,BrandC,395.39,396.71,30.39,63x79x13,True,834,8,2024-04-16
+966,Devolved 3rdgeneration Graphical User Interface Toys,Toys,BrandA,718.06,11.69,17.51,39x76x58,False,396,37,2023-04-16
+967,Intuitive transitional knowledgebase Sports,Sports,BrandC,210.28,8.39,23.96,13x14x8,False,234,18,2023-08-06
+968,Re-contextualized multi-state attitude Toys,Toys,BrandA,924.58,240.89,13.02,59x36x86,True,546,10,2024-01-09
+969,Extended needs-based concept Automotive,Automotive,BrandA,752.52,290.68,12.71,58x79x54,True,481,40,2022-10-25
+970,Progressive coherent matrices Sports,Sports,BrandD,56.66,386.67,31.88,40x98x52,False,462,49,2023-03-01
+971,Enhanced multimedia core Automotive,Automotive,BrandC,565.83,404.26,37.73,44x86x41,False,946,16,2024-02-16
+972,Future-proofed 24hour migration Books,Books,BrandE,278.46,13.28,42.77,7x92x11,True,923,46,2025-04-26
+973,Customizable methodical initiative Clothing,Clothing,BrandA,632.08,304.55,10.62,30x31x83,True,11,22,2024-10-13
+974,Future-proofed neutral hierarchy Toys,Toys,BrandA,508.27,129.88,21.67,9x80x89,False,800,2,2025-02-02
+975,Stand-alone bifurcated Internet solution Automotive,Automotive,BrandD,238.87,17.27,19.26,97x9x100,True,784,41,2022-09-05
+976,Exclusive zero administration infrastructure Books,Books,BrandC,446.13,162.57,24.03,100x61x63,False,753,24,2025-04-11
+977,Upgradable value-added matrix Home & Kitchen,Home & Kitchen,BrandD,612.26,338.79,44.03,86x82x85,False,227,7,2024-02-08
+978,Total actuating function Books,Books,BrandE,455.48,320.78,45.08,27x74x93,True,330,20,2023-12-17
+979,Ergonomic coherent ability Electronics,Electronics,GenericBrand,696.03,107.9,11.9,60x27x6,True,305,15,2022-07-22
+980,Grass-roots multi-state info-mediaries Sports,Sports,BrandB,479.21,169.63,26.89,35x92x27,True,778,28,2022-07-13
+981,Integrated 24hour secured line Home & Kitchen,Home & Kitchen,GenericBrand,192.94,284.82,20.72,16x11x94,False,789,17,2024-01-01
+982,De-engineered composite migration Automotive,Automotive,BrandA,364.0,404.37,2.88,55x15x89,False,832,13,2025-05-25
+983,Focused global conglomeration Clothing,Clothing,BrandE,69.99,346.66,4.31,16x90x16,False,947,50,2022-12-06
+984,Polarized eco-centric solution Toys,Toys,GenericBrand,887.98,467.3,42.49,20x97x29,False,854,18,2025-04-25
+985,Stand-alone tangible architecture Electronics,Electronics,BrandC,469.14,183.33,49.12,43x27x44,True,726,4,2023-01-05
+986,Triple-buffered directional functionalities Books,Books,GenericBrand,773.38,216.69,33.16,69x76x8,True,632,22,2025-03-04
+987,Switchable intermediate challenge Electronics,Electronics,GenericBrand,222.72,459.65,2.71,77x43x49,True,552,39,2022-09-01
+988,Intuitive multi-state workforce Sports,Sports,BrandC,905.05,32.32,34.71,17x21x71,True,256,3,2022-07-24
+989,Organic 5thgeneration utilization Clothing,Clothing,BrandC,113.63,9.88,31.19,24x89x90,False,410,14,2024-10-07
+990,User-centric even-keeled analyzer Books,Books,GenericBrand,989.04,248.49,47.62,13x89x49,True,927,25,2023-01-14
+991,Customizable zero tolerance access Clothing,Clothing,GenericBrand,505.36,63.4,22.73,9x94x17,False,949,34,2024-11-21
+992,Managed fault-tolerant capacity Beauty,Beauty,BrandE,953.71,481.41,30.71,63x28x16,False,68,11,2023-03-07
+993,Automated explicit initiative Beauty,Beauty,BrandB,299.82,38.12,28.3,86x86x41,False,616,38,2024-07-21
+994,Team-oriented web-enabled function Clothing,Clothing,BrandC,340.7,87.76,26.85,72x62x13,True,432,44,2025-05-24
+995,Mandatory intermediate approach Books,Books,BrandE,342.74,96.36,45.2,90x63x69,True,930,23,2023-04-24
+996,Centralized tertiary intranet Sports,Sports,GenericBrand,617.67,384.62,14.78,13x9x36,True,375,37,2024-05-23
+997,Realigned methodical structure Sports,Sports,BrandE,776.7,359.92,39.99,18x66x46,True,596,19,2023-01-30
+998,Visionary hybrid standardization Home & Kitchen,Home & Kitchen,BrandB,355.24,341.28,45.32,100x61x82,True,866,23,2025-03-17
+999,Streamlined composite project Toys,Toys,BrandD,858.0,123.74,6.91,83x31x59,True,65,7,2024-04-04
+1000,Phased needs-based analyzer Toys,Toys,BrandC,790.02,128.04,36.52,51x9x16,True,1000,30,2023-09-11
